@@ -30,6 +30,25 @@ Here are some information about me:
 - 💬 Ask me about C, Python, CTF, Ethical hacking
 - 📫 How to reach me: [GOKUL A.P](https://www.linkedin.com/in/gokulap) (Linkedin)
 
+### My Online Presence 👇
+<p>
+<a href="https://github.com/gokulapap" target="blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gokulap" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+  
+<a href="https://gokulap.hashnode.dev/" target="blank">
+<img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+  
+<a href="https://www.youtube.com/c/CodingWithGokul" target="blank">
+<img align="center" src="https://img.shields.io/badge/Youtube-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>  
+</p>
+
 <br>
 
 **Tools, languages, and other things that I like to work with**
