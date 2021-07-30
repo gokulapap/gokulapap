@@ -117,8 +117,6 @@ Here are some information about me:
   </tr>
 </table>
 
-<br>
-
 <!--
 **📩 Latest Tech Blog Posts**
 -->
