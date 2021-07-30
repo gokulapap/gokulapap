@@ -43,18 +43,18 @@ Here are some information about me:
       <br>Python
      </td>
 
-      <td align="center" width="96">
+   <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/burp.jpeg" width="48" height="48" alt="Java" />
+        <img src="./img/burp.jpeg" width="48" height="48" alt="MySQL" />
       </a>
       <br>Burp
     </td>
 
-    <td align="center" width="96">
+   <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/telebot.png" width="48" height="48" alt="Python" />
+        <img src="./img/telebot.png" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Telebot
+      <br>Telebots
     </td>
 
    <td align="center"  width="96">
@@ -64,31 +64,31 @@ Here are some information about me:
       <br>CTFs
     </td>
 
-    <td align="center" width="96">
+   <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+        <img src="./img/git.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>Git
     </td>
 
-    <td align="center" width="96">
+   <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/flask.png" width="48" height="48" alt="Git" />
-      </a>   
+        <img src="./img/flask.png" width="48" height="48" alt="MySQL" />
+      </a>
       <br>Flask
     </td>
 
-    <td align="center" width="96">
+   <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/htb.jpg" width="48" height="48" alt="Git" />
-      </a>   
+        <img src="./img/htb.jpg" width="48" height="48" alt="MySQL" />
+      </a>
       <br>HTB
     </td>
 
-    <td align="center" width="96">
+   <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/thm.png" width="48" height="48" alt="Git" />
-      </a>   
+        <img src="./img/thm.png" width="48" height="48" alt="MySQL" />
+      </a>
       <br>THM
     </td>
 
@@ -179,5 +179,8 @@ Here are some information about me:
 
 </ul>
 </details>
+
+
+
 
 
