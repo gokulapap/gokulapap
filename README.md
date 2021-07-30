@@ -49,12 +49,11 @@ Here are some information about me:
 </a>  
 </p>
 
-
+<!--
 ### Hack the box and Try hack me badges
  
-<img src="https://tryhackme-badges.s3.amazonaws.com/gokulap.png" alt="TryHackMe"/>&nbsp;
-
 <br>
+-->
 
 **Tools, languages, and other things that I like to work with**
 
