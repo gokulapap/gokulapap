@@ -52,7 +52,8 @@ Here are some information about me:
 <!--
 ### Hack the box and Try hack me badges
 -->
- 
+<img src="https://tryhackme-badges.s3.amazonaws.com/gokulap.png" alt="TryHackMe"/>
+![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/gokulap.png)
 
 ### Tools, languages, and other things that I like to work with 🛠️
 
