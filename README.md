@@ -121,7 +121,7 @@ Here are some information about me:
 <summary>Web scraping</summary>
 <ul>
 
-<li><a href="https://github.com/freedemy" target="_blank">Free Udemy API</a></li>
+<li><a href="https://github.com/gokulapap/freedemy" target="_blank">Free Udemy API</a></li>
 
 </ul>
 </details>
@@ -132,10 +132,10 @@ Here are some information about me:
 <summary>Pentesting</summary>
 <ul>
 
-<li><a href="https://github.com/submax" target="_blank">Submax</a></li>
-<li><a href="https://github.com/subdomainer-flask" target="_blank">Subdomainer flask</a></li>
-<li><a href="https://github.com/dirbrute" target="_blank">Dirbrute</a></li>
-<li><a href="https://github.com/bugdork" target="_blank">Bugdork</a></li>
+<li><a href="https://github.com/gokulapap/submax" target="_blank">Submax</a></li>
+<li><a href="https://github.com/gokulapap/subdomainer-flask" target="_blank">Subdomainer flask</a></li>
+<li><a href="https://github.com/gokulapap/dirbrute" target="_blank">Dirbrute</a></li>
+<li><a href="https://github.com/gokulapap/bugdork" target="_blank">Bugdork</a></li>
 
 </ul>
 </details>
@@ -146,7 +146,7 @@ Here are some information about me:
 <summary>GUI Apps</summary>
 <ul>
 
-<li><a href="https://github.com/eazy-entry" target="_blank">Eazy Entry</a></li>
+<li><a href="https://github.com/gokulapap/eazy-entry" target="_blank">Eazy Entry</a></li>
 
 </ul>
 </details>
@@ -157,9 +157,9 @@ Here are some information about me:
 <summary>Bots</summary>
 <ul>
 
-<li><a href="https://github.com/telebots" target="_blank">Telegram bots</a></li>
-<li><a href="https://github.com/ai-chat-bot" target="_blank">AI Chat bot</a></li>
-<li><a href="https://github.com/whatsasena-plugins" target="_blank">Whatsapp bots</a></li>
+<li><a href="https://github.com/gokulapap/telebots" target="_blank">Telegram bots</a></li>
+<li><a href="https://github.com/gokulapap/ai-chat-bot" target="_blank">AI Chat bot</a></li>
+<li><a href="https://github.com/gokulapap/whatsasena-plugins" target="_blank">Whatsapp bots</a></li>
 
 </ul>
 </details>
@@ -170,12 +170,12 @@ Here are some information about me:
 <summary>CLI tools</summary>
 <ul>
 
-<li><a href="https://github.com/wget-drive" target="_blank">Wget Drive</a></li>
-<li><a href="https://github.com/urlencode" target="_blank">Urlencode</a></li>
-<li><a href="https://github.com/To-Do" target="_blank">To-Do</a></li>
-<li><a href="https://github.com/add-del-proto" target="_blank">Add-del-Proto</a></li>
-<li><a href="https://github.com/Unshortener" target="_blank">Unshortener</a></li>
-<li><a href="https://github.com/CovidVisualizer" target="_blank">Covid Visualizer</a></li>
+<li><a href="https://github.com/gokulapap/wget-drive" target="_blank">Wget Drive</a></li>
+<li><a href="https://github.com/gokulapap/urlencode" target="_blank">Urlencode</a></li>
+<li><a href="https://github.com/gokulapap/To-Do" target="_blank">To-Do</a></li>
+<li><a href="https://github.com/gokulapap/add-del-proto" target="_blank">Add-del-Proto</a></li>
+<li><a href="https://github.com/gokulapap/Unshortener" target="_blank">Unshortener</a></li>
+<li><a href="https://github.com/gokulapap/CovidVisualizer" target="_blank">Covid Visualizer</a></li>
 
 </ul>
 </details>
