@@ -33,7 +33,7 @@ Here are some information about me:
 ### My Online Presence 👇
 <p>
 <a href="https://www.instagram.com/gokulapap/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gokulap" target="blank">
