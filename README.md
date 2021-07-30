@@ -109,7 +109,6 @@ Here are some information about me:
 <summary>Python</summary>
 <ul>
 <li>
-<a href="https://github.com/" target="_blank"> </a></li>
 
 <li><a href="https://github.com/gokulapap/Linux-Visual-Search" target="_blank">Linux Visual Search</a></li>
 <li><a href="https://github.com/gokulapap/subdomainer-flask" target="_blank">Subdomainer Flask</a></li>
