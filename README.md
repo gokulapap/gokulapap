@@ -73,7 +73,7 @@ Here are some information about me:
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/flask.png" width="48" height="48" alt="MySQL" />
+        <img src="./img/flask.jpeg" width="48" height="48" alt="MySQL" />
       </a>
       <br>Flask
     </td>
