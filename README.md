@@ -53,7 +53,6 @@ Here are some information about me:
 ### Hack the box and Try hack me badges
 -->
  
-<br>
 
 ### Tools, languages, and other things that I like to work with 🛠️
 
@@ -123,8 +122,6 @@ Here are some information about me:
 <!--
 **📩 Latest Tech Blog Posts**
 -->
-
-<br>
 
 ### Projects
 
