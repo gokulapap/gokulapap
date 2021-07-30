@@ -32,8 +32,8 @@ Here are some information about me:
 
 ### My Online Presence 👇
 <p>
-<a href="https://github.com/gokulapap" target="blank">
-<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/gokulapap/" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gokulap" target="blank">
