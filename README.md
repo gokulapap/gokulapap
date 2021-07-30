@@ -52,7 +52,7 @@ Here are some information about me:
 <!--
 ### Hack the box and Try hack me badges
 -->
-<script src="https://www.hackthebox.eu/badge/450662">
+<script src="https://www.hackthebox.eu/badge/450662" >
 
 </script>
 
