@@ -60,56 +60,56 @@ Here are some information about me:
   <tr>
       <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python.svg" width="48" height="48" alt="C" />
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
      </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/burp.jpeg" width="48" height="48" alt="MySQL" />
+        <img src="./img/bburp.png" width="48" height="48" alt="Burp" />
       </a>
       <br>Burp
     </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/telebot.png" width="48" height="48" alt="MySQL" />
+        <img src="./img/telebot.png" width="48" height="48" alt="telebot" />
       </a>
       <br>Telebots
     </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/ctf.png" width="48" height="48" alt="MySQL" />
+        <img src="./img/ctf.png" width="48" height="48" alt="CTF" />
       </a>
       <br>CTFs
     </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/git.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/flask.jpeg" width="48" height="48" alt="MySQL" />
+        <img src="./img/flask.jpeg" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/htb.jpg" width="48" height="48" alt="MySQL" />
+        <img src="./img/htb.jpg" width="48" height="48" alt="HTB"/>
       </a>
       <br>HTB
     </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/thm.png" width="48" height="48" alt="MySQL" />
+        <img src="./img/thm.png" width="48" height="48" alt="THM" />
       </a>
       <br>THM
     </td>
