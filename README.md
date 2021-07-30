@@ -55,7 +55,7 @@ Here are some information about me:
 <br>
 -->
 
-**Tools, languages, and other things that I like to work with**
+### Tools, languages, and other things that I like to work with
 
 <table>
   <tr>
