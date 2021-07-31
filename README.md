@@ -46,7 +46,11 @@ Here are some information about me:
   
 <a href="https://www.youtube.com/c/CodingWithGokul" target="blank">
 <img align="center" src="https://img.shields.io/badge/Youtube-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>  
+</a>
+  
+<a href="https://twitter.com/CodingGokul" target="blank">
+<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 </p>
 
 <!--
