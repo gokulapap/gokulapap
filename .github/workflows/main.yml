@@ -29,4 +29,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           curl https://tryhackme.com/badge/regen/504569
-          wget https://tryhackme-badges.s3.amazonaws.com/gokulap.png -O imgs/thmbadge.png
+          wget https://tryhackme-badges.s3.amazonaws.com/gokulap.png -O img/thmbadge.png
