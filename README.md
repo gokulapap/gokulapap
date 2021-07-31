@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! 👋 This is Gokul 👨‍💻
+### Hi there! <img src="img/wave.gif" width="30px"> This is Gokul 👨‍💻
 
 *Python enthusiast | Web Pentester | CTF player | Automation developer*
 
