@@ -52,8 +52,6 @@ Here are some information about me:
 <!--
 ### Hack the box and Try hack me badges
 -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/gokulap.png" alt="TryHackMe"/>
-![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/gokulap.png)
 
 ### Tools, languages, and other things that I like to work with 🛠️
 
@@ -68,7 +66,7 @@ Here are some information about me:
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/bburp.png" width="48" height="41" alt="Burp" />
+        <img src="./img/bburp.png" width="46" height="42" alt="Burp" />
       </a>
       <br>Burp
     </td>
