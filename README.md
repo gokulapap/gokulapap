@@ -68,7 +68,7 @@ Here are some information about me:
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/bburp.png" width="48" height="43" alt="Burp" />
+        <img src="./img/bburp.png" width="48" height="41" alt="Burp" />
       </a>
       <br>Burp
     </td>
