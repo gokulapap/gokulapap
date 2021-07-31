@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! <img src="img/wave.gif" width="25px" height="25px"> This is Gokul 👨‍💻
+### Hi there! <img src="img/wave.gif" width="25px" height="20px"> This is Gokul 👨‍💻
 
-*Python enthusiast | Web Pentester | CTF player | Automation developer*
+*Python developer | Web Pentester | CTF player | Automation developer*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
 
