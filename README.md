@@ -98,7 +98,7 @@ Here are some information about me:
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/flask.png" width="48" height="48" alt="Flask" />
+        <img src="./img/flask.jpg" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
