@@ -91,14 +91,14 @@ Here are some information about me:
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+        <img src="./img/git.jpg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/flask.jpeg" width="48" height="48" alt="Flask" />
+        <img src="./img/flask.jpg" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
