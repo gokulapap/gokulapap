@@ -130,6 +130,7 @@ Here are some information about me:
 
 <li><a href="https://github.com/gokulapap/Linux-Visual-Search" target="_blank">Linux Visual Search</a></li>
 <li><a href="https://github.com/gokulapap/subdomainer-flask" target="_blank">Subdomainer Flask</a></li>
+<li><a href="https://github.com/gokulapap/certificate-generator" target="_blank">Certificate Generator</a></li>
 
 </ul>
 </details>
