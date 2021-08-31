@@ -98,6 +98,14 @@ Here are some information about me:
       </a>
       <br>Flask
     </td>
+    
+    
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/selenium.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Selenium
+    </td>
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
