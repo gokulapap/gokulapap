@@ -94,6 +94,13 @@ Here are some information about me:
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
+        <img src="./img/heroku.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Heroku
+    </td>
+    
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
         <img src="./img/flask.jpg" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
