@@ -153,6 +153,17 @@ Here are some information about me:
 <!-- split -->
 
 <details>
+<summary>Automation</summary>
+<ul>
+
+<li><a href="https://github.com/gokulapap/online_class_automation">Online class Automation</a></li>
+
+</ul>
+</details>
+
+<!-- split -->
+
+<details>
 <summary>Web scraping</summary>
 <ul>
 
@@ -160,6 +171,7 @@ Here are some information about me:
 
 </ul>
 </details>
+
 
 <!-- split -->
 
