@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋 This is Gokul 👨‍💻
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+%F0%9F%91%8B+I+am+Gokul+%F0%9F%99%82;Works+with+Python+%F0%9F%90%8D;Plays+CTF+%3A);Web+pentester+%F0%9F%92%BB;Automation+developer+%E2%9C%93)](https://git.io/typing-svg)
+
 *Python developer | Web Pentester | CTF player | Automation developer*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
