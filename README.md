@@ -225,6 +225,7 @@ Here are some information about me:
 <li><a href="https://github.com/gokulapap/wget-drive" target="_blank">Wget Drive</a></li>
 <li><a href="https://github.com/gokulapap/urlencode" target="_blank">Urlencode</a></li>
 <li><a href="https://github.com/gokulapap/To-Do" target="_blank">To-Do</a></li>
+<li><a href="https://github.com/gokulapap/wappalyzer-cli" target="_blank">Wappalyzer-CLI</a></li>
 <li><a href="https://github.com/gokulapap/add-del-proto" target="_blank">Add-del-Proto</a></li>
 <li><a href="https://github.com/gokulapap/Unshortener" target="_blank">Unshortener</a></li>
 <li><a href="https://github.com/gokulapap/CovidVisualizer" target="_blank">Covid Visualizer</a></li>
