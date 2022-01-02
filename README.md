@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="./img/banner.png" height=40px width=80px><img>
+<br>
+
 ### Hi there! 👋 This is Gokul 👨‍💻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+Python+Developer;%E2%9C%93+Web+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Automation+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
@@ -21,11 +24,7 @@ Here are some ideas to get you started:
 <!--
 *Python developer | Web Pentester | CTF player | Automation developer*
 -->
-<br><br>
 
-<img src="./img/banner.png"></img>
-
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
 
