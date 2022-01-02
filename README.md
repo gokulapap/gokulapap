@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./img/banner.png" height=640px width=1280px><img>
+<img src="./img/banner.png" height=300px width=900px><img>
 <br>
 
 ### Hi there! 👋 This is Gokul 👨‍💻
