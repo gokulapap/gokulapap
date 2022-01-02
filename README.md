@@ -81,7 +81,7 @@ Here are some information about me:
 
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/telebot.png" width="54" height="52" alt="telebot" />
+        <img src="./img/telebot.svg" width="48" height="48" alt="telebot" />
       </a>
       <br>Telebots
     </td>
