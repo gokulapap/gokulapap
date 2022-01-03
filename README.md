@@ -39,6 +39,23 @@ Here are some information about me:
 - 📫 How to reach me: [GOKUL A.P](https://www.linkedin.com/in/gokulap) (Linkedin)
 
 ### My Online Presence 👇
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gokulap" target="_blank">
+  <img align="center" alt="gokulap | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/CodingGokul" target="_blank">
+  <img align="center" alt="gokulap | Twitter" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/gokulapap" target="_blank">
+  <img align="center" alt="gokulap | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:apgokul008@gmail.com">
+  <img align="center" alt="gokulap | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+
+<!--
 <p>
 <a href="https://www.instagram.com/gokulapap/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -56,6 +73,8 @@ Here are some information about me:
 <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 </p>
+
+-->
 
 <!--
 ### Hack the box and Try hack me badges
