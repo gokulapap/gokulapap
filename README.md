@@ -81,7 +81,7 @@ Here are some information about me:
 ### Hack the box and Try hack me badges
 -->
 
-### Tools, languages, and other things that I like to work with 🛠️
+### Techstack 🛠️
 
 <table>
   <tr>
@@ -257,7 +257,7 @@ Here are some information about me:
 </ul>
 </details>
 
-## Github Stats 📈
+### Github Stats 📈
 <!-- status codes -->
 <p>
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dgokulapap">
