@@ -42,7 +42,7 @@ Here are some information about me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gokulap" target="_blank">
-  <img align="center" alt="gokulap | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="gokulap | Linkedin" width="50px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/CodingGokul" target="_blank">
   <img align="center" alt="gokulap | Twitter" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
@@ -52,6 +52,9 @@ Here are some information about me:
 </a> &nbsp;&nbsp;
 <a href="mailto:apgokul008@gmail.com">
   <img align="center" alt="gokulap | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> 
+<a href="https://gokulapap.github.io">
+<img align="left" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> &nbsp;&nbsp;
 <p>
 
