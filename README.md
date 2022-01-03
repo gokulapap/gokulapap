@@ -42,7 +42,7 @@ Here are some information about me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gokulap" target="_blank">
-  <img align="center" alt="gokulap | Linkedin" width="50px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="gokulap | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/CodingGokul" target="_blank">
   <img align="center" alt="gokulap | Twitter" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
