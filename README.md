@@ -83,81 +83,27 @@ Here are some information about me:
 
 ### 🛠️ Techstack
 
-<table>
-  <tr>
-      <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-     </td>
 
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bburp.png" width="46" height="42" alt="Burp" />
-      </a>
-      <br>Burp
-    </td>
-
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/telebot.svg" width="48" height="48" alt="telebot" />
-      </a>
-      <br>Telebots
-    </td>
-
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/ctf.png" width="48" height="48" alt="CTF" />
-      </a>
-      <br>CTFs
-    </td>
-
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/git.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/heroku.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Heroku
-    </td>
-    
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/flask.jpg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-    
-    
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/selenium.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Selenium
-    </td>
-
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/htb.jpg" width="48" height="48" alt="HTB"/>
-      </a>
-      <br>HTB
-    </td>
-
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/thm.png" width="48" height="48" alt="THM" />
-      </a>
-      <br>THM
-    </td>
-
-  </tr>
-</table>
+<img src="./img/python.svg" width="48" height="48" alt="Python" />
+&nbsp;&nbsp;
+<img src="./img/bburp.png" width="46" height="42" alt="Burp" />
+&nbsp;&nbsp;
+<img src="./img/telebot.svg" width="48" height="48" alt="telebot" />
+&nbsp;&nbsp;
+<img src="./img/ctf.png" width="48" height="48" alt="CTF" />
+&nbsp;&nbsp;
+<img src="./img/git.png" width="48" height="48" alt="Git" />
+&nbsp;&nbsp;
+<img src="./img/heroku.png" width="48" height="48" alt="Git" />
+&nbsp;&nbsp;
+<img src="./img/flask.jpg" width="48" height="48" alt="Flask" />
+&nbsp;&nbsp;
+<img src="./img/selenium.png" width="48" height="48" alt="Git" />
+&nbsp;&nbsp;
+<img src="./img/htb.jpg" width="48" height="48" alt="HTB"/>
+&nbsp;&nbsp;
+<img src="./img/thm.png" width="48" height="48" alt="THM" />
+&nbsp;&nbsp;
 
 <!--
 **📩 Latest Tech Blog Posts**
