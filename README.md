@@ -86,23 +86,23 @@ Here are some information about me:
 <p>
 <img src="./img/python.svg" width="30" alt="Python" />
 &nbsp;
-<img src="./img/bburp.png" width="30" alt="Burp" />
+<img src="./img/burp.svg" width="30" alt="Burp" />
 &nbsp;&nbsp;
-<img src="./img/telebot.svg" width="48" height="48" alt="telebot" />
+<img src="./img/telebot.svg" width="27" height="48" alt="telebot" />
 &nbsp;&nbsp;
-<img src="./img/ctf.png" width="48" height="48" alt="CTF" />
+<img src="./img/ctf.png" width="27" height="48" alt="CTF" />
 &nbsp;&nbsp;
-<img src="./img/git.png" width="48" height="48" alt="Git" />
+<img src="./img/git.png" width="30" height="48" alt="Git" />
 &nbsp;&nbsp;
-<img src="./img/heroku.png" width="48" height="48" alt="Git" />
+<img src="./img/heroku.png" width="28" height="48" alt="Git" />
 &nbsp;&nbsp;
-<img src="./img/flask.jpg" width="48" height="48" alt="Flask" />
+<img src="./img/flask.jpg" width="28" height="48" alt="Flask" />
 &nbsp;&nbsp;
-<img src="./img/selenium.png" width="48" height="48" alt="Git" />
+<img src="./img/selenium.png" width="28" height="48" alt="Git" />
 &nbsp;&nbsp;
-<img src="./img/htb.jpg" width="48" height="48" alt="HTB"/>
+<img src="./img/htb.jpg" width="28" height="48" alt="HTB"/>
 &nbsp;&nbsp;
-<img src="./img/thm.png" width="48" height="48" alt="THM" />
+<img src="./img/thm.png" width="28" height="48" alt="THM" />
 &nbsp;&nbsp;
 </p>
 
