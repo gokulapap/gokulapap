@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./img/github banner.svg" height=170px width=670px><img>
+<img src="https://oshi.at/eceW/github_banner.svg" height=170px width=670px><img>
   
 ### Hi there! 👋 This is Gokul 👨‍💻
 
