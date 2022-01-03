@@ -250,9 +250,9 @@ Here are some information about me:
     <img src="https://github-readme-stats.vercel.app/api?username=gokulapap&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
-<center>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokulapap&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</center>
+<p align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gokulapap&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
+</p>
 
 
 
