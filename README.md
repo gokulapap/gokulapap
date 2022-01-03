@@ -40,7 +40,7 @@ Here are some information about me:
 
 ### My Online Presence 👇
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/gokulap" target="_blank">
   <img align="center" alt="gokulap | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
