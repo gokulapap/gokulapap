@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 Here are some information about me:
 
-- 🔭 I’m currently working on python and pentesting
+- 🔭 I’m currently working on Python and Pentesting
 - ⚙️ I use daily: `.py`
 - 👯 I’m looking to collaborate on Python, Web Development, CTFs
-- 💬 Ask me about C, Python, CTF, Ethical hacking
+- 💬 Ask me about Python, CTFs, Ethical hacking & Automations
 - 📫 How to reach me: [GOKUL A.P](https://www.linkedin.com/in/gokulap) (Linkedin)
 
 ### My Online Presence 👇
