@@ -240,15 +240,15 @@ Here are some information about me:
 ## Github Stats 📈
 <!-- status codes -->
 <p>
-<a href="https://gokulap.hashnode.dev/">
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dgokulapap">
 </a>
 &nbsp; &nbsp;
 <img src="https://komarev.com/ghpvc/?username=gokulapap" alt="gokulapap"/>
 </p>
   
-<a href="https://gokulap.hashnode.dev/">
-    <p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokulapap&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=gokulapap&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
