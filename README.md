@@ -36,7 +36,7 @@ Here are some information about me:
 - 💬 Ask me about Python, CTFs, Ethical hacking & Automations
 - 📫 How to reach me: [GOKUL A.P](https://www.linkedin.com/in/gokulap) (Linkedin)
 
-### 👇 My Online Presence
+### My Online Presence
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gokulap" target="_blank">
