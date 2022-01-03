@@ -83,9 +83,9 @@ Here are some information about me:
 
 ### 🛠️ Techstack
 
-
+<p>
 <img src="./img/python.svg" width="48" height="48" alt="Python" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="./img/bburp.png" width="46" height="42" alt="Burp" />
 &nbsp;&nbsp;
 <img src="./img/telebot.svg" width="48" height="48" alt="telebot" />
@@ -104,6 +104,7 @@ Here are some information about me:
 &nbsp;&nbsp;
 <img src="./img/thm.png" width="48" height="48" alt="THM" />
 &nbsp;&nbsp;
+</p>
 
 <!--
 **📩 Latest Tech Blog Posts**
