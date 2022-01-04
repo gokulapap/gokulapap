@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🚩 Playing CTFs for **[TamilCTF team](https://ctftime.org/team/128998)**
 - 👯 I’m looking to collaborate on Python, Web Development, CTFs
 - 💬 Ask me about Python, CTFs, Ethical hacking & Automations
-- 📫 How to reach me: [GOKUL A.P](https://www.linkedin.com/in/gokulap) (Linkedin)
+- 📫 How to reach me: **[GOKUL A.P](https://www.linkedin.com/in/gokulap)** (Linkedin)
 
 ### My Online Presence
 
