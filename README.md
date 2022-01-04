@@ -99,7 +99,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Heroku-6567a5.svg?logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=black"/>
 <img src="https://img.shields.io/badge/Gcloud-4285F4.svg?logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Colab-FFdf00.svg?logo=googlecolab&logoColor=black"/>
 <img src="https://img.shields.io/badge/Azure-007FFF.svg?logo=microsoftazure&logoColor=white"/>
 </p>
 
