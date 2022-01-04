@@ -110,9 +110,6 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/OracleSQL-f80125.svg?logo=oracle&logoColor=white"/>
 </p>
 
 ### 👉 Databases
