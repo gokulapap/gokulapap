@@ -52,6 +52,10 @@ Here are some ideas to get you started:
 <a href="https://gokulapap.github.io">
 <img align="center" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> 
+  
+<a href="https://gokulapap.github.io">
+<img align="center" alt="gokulap | Blog" width="30px" src=./img/tryhackme.svg"" />
+</a> 
 <p>
 
 <hr>
