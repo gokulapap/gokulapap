@@ -82,6 +82,16 @@ Here are some ideas to get you started:
 -->
 
 ### 💻 Techstack
+ 
+### 👉 Programming languages
+  
+<p>
+<img src="https://img.shields.io/badge/Python-05122A.svg?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-000000.svg?logo=gnubash&logoColor=white"/>
+</p>
 
 <p>
 <img src="./img/python.svg" width="30" alt="Python" />
