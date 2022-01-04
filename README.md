@@ -85,6 +85,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
 </p>
 
+### 👉 Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/Selenium-008000.svg?logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-ffffff.svg?logo=flask&logoColor=black"/>
+<img src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-00599C.svg?logo=fastapi&logoColor=white"/>
+</p>
+
 
 <!--
 **📩 Latest Tech Blog Posts**
