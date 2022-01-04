@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 </a> 
   
 <a href="https://gokulapap.github.io">
-<img align="center" alt="gokulap | Blog" width="30px" src=./img/tryhackme.svg"" />
-</a> 
+<img align="center" alt="gokulap | Blog" width="30px" src="./img/tryhackme.svg" />
+</a>
 <p>
 
 <hr>
