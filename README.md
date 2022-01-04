@@ -119,6 +119,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
 </p>
 
+### 👉 Software & Tools
+<p>
+<img src="https://img.shields.io/badge/Dockers-0db7ed.svg?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F1502F.svg?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-ffffff.svg?logo=notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
+</p>
 
 
 <!--
