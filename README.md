@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
-  
-<hr>
+
 
 ### About Me
 
