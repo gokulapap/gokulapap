@@ -28,10 +28,11 @@ Here are some ideas to get you started:
   
 <br>
 
-Here are some information about me:
+### About Me
 
 - 🔭 I’m currently working on Python and Pentesting
-- ⚙️ I use daily: `.py`
+- ⚙️ I use `.py` daily
+- 🚩 Playing CTFs for **[TamilCTF team](https://ctftime.org/team/128998)**
 - 👯 I’m looking to collaborate on Python, Web Development, CTFs
 - 💬 Ask me about Python, CTFs, Ethical hacking & Automations
 - 📫 How to reach me: [GOKUL A.P](https://www.linkedin.com/in/gokulap) (Linkedin)
@@ -80,7 +81,7 @@ Here are some information about me:
 ### Hack the box and Try hack me badges
 -->
 
-### 🛠️ Techstack
+### 💻 Techstack
 
 <p>
 <img src="./img/python.svg" width="30" alt="Python" />
