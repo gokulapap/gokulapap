@@ -53,13 +53,14 @@ Here are some ideas to get you started:
 </a> &nbsp;&nbsp;
 <a href="mailto:apgokul008@gmail.com">
   <img align="center" alt="gokulap | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> 
+</a> &nbsp;&nbsp;
 <a href="https://gokulapap.github.io">
 <img align="center" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp;
+</a> 
 <p>
 
 <hr>
+
 <!--
 ### Hack the box and Try hack me badges
 -->
@@ -83,7 +84,9 @@ Here are some ideas to get you started:
 **📩 Latest Tech Blog Posts**
 -->
 
-## 📘 Projects
+<hr>
+
+### 📘 Projects
 
 <!-- split -->
 
@@ -177,7 +180,9 @@ Here are some ideas to get you started:
 </ul>
 </details>
 
-## Github Stats 📈
+<hr>
+
+### Github Stats 📈
 <!-- status codes -->
 <p>
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dgokulapap">
