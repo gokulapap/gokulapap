@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 ### 💻 Techstack
  
 ### 👉 Programming languages
-  
 <p>
 <img src="https://img.shields.io/badge/Python-00599C.svg?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-681c64.svg?logo=gnubash&logoColor=white"/>
@@ -78,7 +77,6 @@ Here are some ideas to get you started:
 </p>
 
 ### 👉 Web Programming
-
 <p>
 <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
@@ -86,7 +84,6 @@ Here are some ideas to get you started:
 </p>
 
 ### 👉 Frameworks
-
 <p>
 <img src="https://img.shields.io/badge/Selenium-008000.svg?logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-00599C.svg?logo=flask&logoColor=white"/>
@@ -108,6 +105,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github%20Actions-2370ED.svg?logo=githubactions&logoColor=white"/>
 </p>
+
+### 👉 Web Servers
+<p>
+<img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/>
+</p>
+
+### 👉 Databases
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/OracleSQL-f80125.svg?logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
+</p>
+
+
 
 <!--
 **📩 Latest Tech Blog Posts**
