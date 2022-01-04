@@ -88,9 +88,9 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/Python-00599C.svg?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++%20-%23F7DF1E.svg?logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++%20-%23c5d902.svg?logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-34bc34.svg?logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-681c64.svg?logo=gnubash&logoColor=white"/>
 </p>
 
 <p>
