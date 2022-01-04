@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="./img/gitbanner.svg" height=170px width=670px><img>
   
-### Hi there! 👋 This is Gokul 👨‍💻
+## Hi there! 👋 This is Gokul 👨‍💻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+Python+Developer;%E2%9C%93+Web+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Automation+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
 <br>
 
-### About Me
+## About Me
 
 - 🔭 I’m currently working on Python and Pentesting
 - ⚙️ I use `.py` daily
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, CTFs, Ethical hacking & Automations
 - 📫 How to reach me: **[GOKUL A.P](https://www.linkedin.com/in/gokulap)** (Linkedin)
 
-### My Online Presence
+## My Online Presence
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gokulap" target="_blank">
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ### Hack the box and Try hack me badges
 -->
 
-### 💻 Techstack
+## 💻 Techstack
  
 ### 👉 Programming languages
   
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 **📩 Latest Tech Blog Posts**
 -->
 
-### 📘 Projects
+## 📘 Projects
 
 <!-- split -->
 
@@ -214,7 +214,7 @@ Here are some ideas to get you started:
 </ul>
 </details>
 
-### Github Stats 📈
+## Github Stats 📈
 <!-- status codes -->
 <p>
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dgokulapap">
