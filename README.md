@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github%20Actions-2370ED.svg?logo=githubactions&logoColor=white"/>
 </p>
 
-### 👉 Web Servers & Databases
+### 👉 Web Servers
 <p>
 <img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/>
