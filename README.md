@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
 <hr>
 
-### About Me
+### ✨ About Me
 
 - 🔭 I’m currently working on Python and Pentesting
 - ⚙️ I use `.py` daily
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### My Online Presence
+### 🌐 My Online Presence
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gokulap" target="_blank">
