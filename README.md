@@ -75,9 +75,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
-
 </p>
 
+### 👉 Web Programming
+
+<p>
+<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+</p>
 
 
 <!--
