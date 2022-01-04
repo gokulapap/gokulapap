@@ -56,25 +56,6 @@ Here are some ideas to get you started:
 </a> &nbsp;&nbsp;
 <p>
 
-<!--
-<p>
-<a href="https://www.instagram.com/gokulapap/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gokulap" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-  
-<a href="https://gokulap.hashnode.dev/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/CodingGokul" target="blank">
-<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-</p>
--->
 
 <!--
 ### Hack the box and Try hack me badges
@@ -86,10 +67,11 @@ Here are some ideas to get you started:
   
 <p>
 <img src="https://img.shields.io/badge/Python-00599C.svg?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++%20-%23FFDF00.svg?logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-681c64.svg?logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
+
 </p>
 
 
