@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://img.shields.io/badge/Selenium-008000.svg?logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-00599C.svg?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-00599C.svg?logo=fastapi&logoColor=white"/>
 </p>
