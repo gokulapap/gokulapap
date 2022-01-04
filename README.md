@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
   
+<hr>
 
 ## About Me
 
@@ -35,6 +36,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python, Web Development, CTFs
 - 💬 Ask me about Python, CTFs, Ethical hacking & Automations
 - 📫 How to reach me: **[GOKUL A.P](https://www.linkedin.com/in/gokulap)** (Linkedin)
+
+<hr>
 
 ## My Online Presence
 
@@ -56,7 +59,7 @@ Here are some ideas to get you started:
 </a> &nbsp;&nbsp;
 <p>
 
-
+<hr>
 <!--
 ### Hack the box and Try hack me badges
 -->
