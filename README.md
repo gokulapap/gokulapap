@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="./img/gitbanner.svg" height=170px width=670px><img>
   
-## Hi there! 👋 This is Gokul 👨‍💻
+### Hi there! 👋 This is Gokul 👨‍💻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+Python+Developer;%E2%9C%93+Web+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Automation+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
 <hr>
 
-## About Me
+### About Me
 
 - 🔭 I’m currently working on Python and Pentesting
 - ⚙️ I use `.py` daily
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-## My Online Presence
+### My Online Presence
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gokulap" target="_blank">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <img align="center" alt="gokulap | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> 
 <a href="https://gokulapap.github.io">
-<img align="left" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+<img align="center" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> &nbsp;&nbsp;
 <p>
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ### Hack the box and Try hack me badges
 -->
 
-## 💻 Techstack
+### 💻 Techstack
  
 ### 👉 Programming languages
   
