@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github%20actions-2370ED.svg?logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github%20Actions-2370ED.svg?logo=githubactions&logoColor=white"/>
 </p>
 
 <!--
