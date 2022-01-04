@@ -102,6 +102,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Azure-007FFF.svg?logo=microsoftazure&logoColor=white"/>
 </p>
 
+### 👉 Web Hosting
+<p>
+<img src="https://img.shields.io/badge/Dockers-0db7ed.svg?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github%20actions-000000.svg?logo=githubactions&logoColor=white"/>
+</p>
+
 <!--
 **📩 Latest Tech Blog Posts**
 -->
