@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+Python+Developer;%E2%9C%93+Web+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Automation+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
 
-<!--
-*Python developer | Web Pentester | CTF player | Automation developer*
--->
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
 
 
@@ -246,6 +242,3 @@ Here are some ideas to get you started:
 <p align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gokulapap&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
 </p>
-
-
-
