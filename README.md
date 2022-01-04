@@ -87,33 +87,12 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/Python-00599C.svg?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++%20-%23c5d902.svg?logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++%20-%23FFDF00.svg?logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-681c64.svg?logo=gnubash&logoColor=white"/>
 </p>
 
-<p>
-<img src="./img/python.svg" width="30" alt="Python" />
-&nbsp;
-<img src="./img/burp.svg" width="30" alt="Burp" />
-&nbsp;&nbsp;
-<img src="./img/telebot.svg" width="27" height="48" alt="telebot" />
-&nbsp;&nbsp;
-<img src="./img/ctf.png" width="27" height="48" alt="CTF" />
-&nbsp;&nbsp;
-<img src="./img/git.png" width="30" height="48" alt="Git" />
-&nbsp;&nbsp;
-<img src="./img/heroku.png" width="28" height="48" alt="Git" />
-&nbsp;&nbsp;
-<img src="./img/flask.jpg" width="28" height="48" alt="Flask" />
-&nbsp;&nbsp;
-<img src="./img/selenium.png" width="28" height="48" alt="Git" />
-&nbsp;&nbsp;
-<img src="./img/htb.jpg" width="28" height="48" alt="HTB"/>
-&nbsp;&nbsp;
-<img src="./img/thm.png" width="28" height="48" alt="THM" />
-&nbsp;&nbsp;
-</p>
+
 
 <!--
 **📩 Latest Tech Blog Posts**
