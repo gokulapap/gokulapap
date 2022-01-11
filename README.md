@@ -12,8 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./img/gitbanner.svg" height=170px width=670px><img>
-  
+<!--
+<img src="./img/gitbanner.svg" height=170px width=670px></img>
+-->
+
+<img src="https://oshi.at/bQxn/gitbanner(1).svg" height=170px width=670px></img>
+
 ### Hi there! 👋 This is Gokul 👨‍💻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+Python+Developer;%E2%9C%93+Web+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Automation+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
