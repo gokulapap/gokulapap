@@ -57,9 +57,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<!--
-### Hack the box and Try hack me badges
--->
 
 ### 💻 Techstack
  
