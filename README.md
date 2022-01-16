@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-
 ### 💻 Techstack
  
 ### 👉 Programming languages
