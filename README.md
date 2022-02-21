@@ -146,6 +146,7 @@ Here are some ideas to get you started:
 <summary>Automation</summary>
 <ul>
 
+<li><a href="https://github.com/gokulapap/Reconator">Reconator</a></li>
 <li><a href="https://github.com/gokulapap/online_class_automation">Online class Automation</a></li>
 
 </ul>
@@ -170,6 +171,7 @@ Here are some ideas to get you started:
 <ul>
 
 <li><a href="https://github.com/gokulapap/submax" target="_blank">Submax</a></li>
+<li><a href="https://github.com/gokulapap/Reconator">Reconator</a></li>
 <li><a href="https://github.com/gokulapap/subdomainer-flask" target="_blank">Subdomainer flask</a></li>
 <li><a href="https://github.com/gokulapap/dirbrute" target="_blank">Dirbrute</a></li>
 <li><a href="https://github.com/gokulapap/bugdork" target="_blank">Bugdork</a></li>
