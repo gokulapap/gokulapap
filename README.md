@@ -29,7 +29,6 @@ Default
 - 🔭 I’m currently working on Python and Pentesting
 - ⚙️ I use `.py` daily
 - 👯 I’m looking to collaborate on Python, Web Development, CTFs
-- 🚩 Playing CTFs for **[TamilCTF](https://ctftime.org/team/128998)**
 - 💬 Ask me about Python, CTFs, Ethical hacking & Automations
 - 📫 How to reach me: **[GOKUL A.P](https://www.linkedin.com/in/gokulap)** (Linkedin)
 
