@@ -222,6 +222,37 @@ Default
 
 <hr>
 
+### 🏆 My Top Projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/gokulapap/Reconator"><b>Reconator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/gokulapap/Reconator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/gokulapap/Reconator?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gokulapap/Pentesting-Resources"><b>Resources</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/gokulapap/Pentesting-Resources?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/gokulapap/Pentesting-Resources?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gokulapap/wappalyzer-cli"><b>Wappalyzer</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/gokulapap/wappalyzer-cli?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/gokulapap/wappalyzer-cli?style=flat-square&labelColor=343b41"/></td>
+    </tr>  
+  </tbody>
+</table>
+
+<hr> 
+
 ### 📈 Github Stats
 <!-- status codes -->
 <p>
