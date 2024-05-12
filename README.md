@@ -229,6 +229,7 @@ Default
 </a>
 &nbsp; &nbsp;
 <img src="https://komarev.com/ghpvc/?username=gokulapap" alt="gokulapap"/>
+<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 </p>
   
 <p align="center">
