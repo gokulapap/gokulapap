@@ -107,7 +107,7 @@ Default
 ### 👉 Databases
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"/>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
 <img src="https://img.shields.io/badge/OracleSQL-f80125.svg?logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
 </p>
@@ -122,13 +122,14 @@ Default
 </p>
 
 ### 👉 Cloud System
-[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
-
+<p>
+<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/>
+</p>
 
 ### 👉 Software & Tools
 <p>
@@ -139,13 +140,13 @@ Default
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 👉 Software & Tools
+### 👉 Operating System
 <p>
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#)
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
 </p>
 
 
