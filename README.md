@@ -24,7 +24,7 @@ Default
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
 
-### About Me
+### 🚀 About Me
 
 - 🛡️ Cybersecurity enthusiast, automation geek, and DevOps practitioner — building tools that make a difference!
 - 🔭 Currently working on Python, Penetration Testing, and DevOps
