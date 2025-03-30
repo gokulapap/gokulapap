@@ -20,7 +20,7 @@ Default
 
 ### Hi there! 👋 This is Gokul 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+Python+Developer;%E2%9C%93+Web+Pentester;%E2%9C%93+CTF+Player;%E2%9C%93+Automation+Developer;%E2%9C%93+DevOps+Engineer;%E2%9C%93+Bug+Bounty+Hunter;%E2%9C%93+Cloud+Security+Researcher)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+Python+Developer;%E2%9C%93+Web+Pentester;%E2%9C%93+CTF+Player;%E2%9C%93+Automation+Developer;%E2%9C%93+DevOps+Engineer;%E2%9C%93+Bug+Bounty+Hunter;%E2%9C%93+Cloud+Security+Researcher)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokulapap&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
 
