@@ -83,12 +83,14 @@ Default
 <img src="https://img.shields.io/badge/FastAPI-00599C.svg?logo=fastapi&logoColor=white"/>
 </p>
 
-### 👉 Cloud Hosting
+### 👉 Cloud System
 <p>
-<img src="https://img.shields.io/badge/Heroku-6567a5.svg?logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=black"/>
-<img src="https://img.shields.io/badge/Gcloud-4285F4.svg?logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-007FFF.svg?logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/>
 </p>
 
 ### 👉 Web Hosting
@@ -118,18 +120,8 @@ Default
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?logo=argo&logoColor=#d16044"/>
 </p>
 
-### 👉 Cloud System
-<p>
-<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/>
-</p>
 
 ### 👉 Software & Tools
 <p>
