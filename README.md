@@ -72,6 +72,7 @@ Default
 <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"/>
 </p>
 
 ### 👉 Frameworks
@@ -106,16 +107,45 @@ Default
 ### 👉 Databases
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"/>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 <img src="https://img.shields.io/badge/OracleSQL-f80125.svg?logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
 </p>
 
+### 👉 CI/CD
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff"/>
+<img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?logo=argo&logoColor=#d16044"/>
+</p>
+
+### 👉 Cloud System
+[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+
+
 ### 👉 Software & Tools
 <p>
 <img src="https://img.shields.io/badge/Dockers-0db7ed.svg?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Git-F1502F.svg?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-ffffff.svg?logo=notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
+</p>
+
+### 👉 Software & Tools
+<p>
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 </p>
 
 
