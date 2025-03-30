@@ -124,46 +124,31 @@ Default
 
 ### 👉 DevOps Tools
 <p>
-  <!-- Continuous Integration & Continuous Deployment (CI/CD) -->
-  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26.svg?logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
-  <img src="https://img.shields.io/badge/CircleCI-343434.svg?logo=circleci&logoColor=white" alt="CircleCI"/>
-  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?logo=travisci&logoColor=white" alt="Travis CI"/>
-  <img src="https://img.shields.io/badge/TeamCity-000000.svg?logo=teamcity&logoColor=white" alt="TeamCity"/>
-  <img src="https://img.shields.io/badge/Bamboo-0052CC.svg?logo=bamboo&logoColor=white" alt="Bamboo"/>
-  <img src="https://img.shields.io/badge/Argo%20CD-2496ED.svg?logo=argo&logoColor=white" alt="Argo CD"/>
-  <img src="https://img.shields.io/badge/Flux%20CD-5D5D5D.svg?logo=flux&logoColor=white" alt="Flux CD"/>
-  <img src="https://img.shields.io/badge/GoCD-609926.svg?logo=go&logoColor=white" alt="GoCD"/>
-  <img src="https://img.shields.io/badge/Spinnaker-139BB4.svg?logo=spinnaker&logoColor=white" alt="Spinnaker"/>
-  <img src="https://img.shields.io/badge/Octopus%20Deploy-2F93E0.svg?logo=octopusdeploy&logoColor=white" alt="Octopus Deploy"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689.svg?logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Kustomize-3178C6.svg?logo=kustomize&logoColor=white" alt="Kustomize"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Chef-F09820.svg?logo=chef&logoColor=white" alt="Chef"/>
-  <img src="https://img.shields.io/badge/Puppet-FFAE1A.svg?logo=puppet&logoColor=white" alt="Puppet"/>
-  <img src="https://img.shields.io/badge/SaltStack-00EACE.svg?logo=saltstack&logoColor=white" alt="SaltStack"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Vagrant-1563FF.svg?logo=vagrant&logoColor=white" alt="Vagrant"/>
-  <img src="https://img.shields.io/badge/Consul-CA2171.svg?logo=consul&logoColor=white" alt="Consul"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/ELK-005571.svg?logo=elasticstack&logoColor=white" alt="ELK Stack"/>
-  <img src="https://img.shields.io/badge/Splunk-000000.svg?logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/Nagios-269BFF.svg?logo=nagios&logoColor=white" alt="Nagios"/>
-  <img src="https://img.shields.io/badge/Zabbix-CC0000.svg?logo=zabbix&logoColor=white" alt="Zabbix"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6.svg?logo=datadog&logoColor=white" alt="Datadog"/>
-  <img src="https://img.shields.io/badge/New%20Relic-008C99.svg?logo=newrelic&logoColor=white" alt="New Relic"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white" alt="Slack"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC.svg?logo=jira&logoColor=white" alt="JIRA"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?logo=confluence&logoColor=white" alt="Confluence"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white" alt="Bitbucket"/>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434.svg?logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?logo=travis-ci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571.svg?logo=elastic-stack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000.svg?logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chef-F09820.svg?logo=chef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Puppet-FFAE1A.svg?logo=puppet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SaltStack-00EACE.svg?logo=saltstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vagrant-1563FF.svg?logo=vagrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Consul-CA2171.svg?logo=consul&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nagios-269BFF.svg?logo=nagios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"/>
 </p>
-
 
 ### 👉 Software & Tools
 <p>
