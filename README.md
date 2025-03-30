@@ -35,6 +35,17 @@ Default
 
 <hr>
 
+### 🏆 Achievements
+- 🏅 **Google Hall of Fame** for reporting a critical security vulnerability.
+- 🐞 Reported **100+ security vulnerabilities** through bug bounties
+- 🔎 Researched and identified Docker security flaws, and cloud vulnerabilities.
+- 🛠️ Built **Reconator**, an automated reconnaissance tool for ethical hacking.
+- 🌍 **Open-source contributor** to security tools and DevOps projects.
+- 🔧 Automated Trivy Docker image scanning & remediation, improving security workflows.
+- ⚡ Created a Python based automation tool for scanning Docker images and alerting Critical Secrets.
+
+<hr>
+
 ### 🌐  My Online Presence
 
 <p align="left">
