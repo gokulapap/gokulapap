@@ -26,11 +26,12 @@ Default
 
 ### About Me
 
-- 🔭 I’m currently working on Python and Pentesting
-- ⚙️ I use `.py` daily
-- 👯 I’m looking to collaborate on Python, Web Development, CTFs
-- 💬 Ask me about Python, CTFs, Ethical hacking & Automations
-- 📫 How to reach me: **[GOKUL A.P](https://www.linkedin.com/in/gokulap)** (Linkedin)
+- 🛡️ Cybersecurity enthusiast, automation geek, and DevOps practitioner — building tools that make a difference!
+- 🔭 Currently working on Python, Penetration Testing, and DevOps
+- ⚙️ Writing `.py` scripts daily to automate security and DevOps workflows
+- 🤝 Open to collaborating on Python, Web Development, CTFs and DevOps
+- 💬 Ask me about Python, CTFs, Ethical Hacking, Automation and DevSecOps
+- 📫 Connect with me: **[GOKUL A.P](https://www.linkedin.com/in/gokulap)** (Linkedin)
 
 <hr>
 
