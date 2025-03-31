@@ -108,9 +108,9 @@ Default
 
 ### 👉 Web Servers
 <p>
+<img src="https://custom-icon-badges.demolab.com/badge/Nginx-009900?logo=nginx"/>
 <img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Nginx-009900?logo=nginx"/>  
 </p>
 
 ### 👉 Databases
