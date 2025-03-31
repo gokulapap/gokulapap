@@ -130,6 +130,7 @@ Default
 <p>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/ArgoWorkflows-E27602.svg?logo=argocd-new&logoColor=white"/>
 <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff"/>
 <img src="https://custom-icon-badges.demolab.com/badge/ArgoCD-E27602.svg?logo=argocd-new&logoColor=white"/>
