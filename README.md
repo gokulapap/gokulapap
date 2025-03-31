@@ -103,7 +103,7 @@ Default
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?logo=amazon-web-services&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>  
 </p>
 
@@ -167,7 +167,7 @@ Default
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff"/>
-<img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/>  
+<img src="https://img.shields.io/badge/macOS-343434?logo=apple&logoColor=F0F0F0"/>  
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
 </p>
 
