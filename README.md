@@ -157,7 +157,7 @@ Default
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Git-F1502F.svg?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-ffffff.svg?logo=notion&logoColor=black"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
 </p>
 
 ### 👉 Operating System
