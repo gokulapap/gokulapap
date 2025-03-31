@@ -138,12 +138,14 @@ Default
   <img src="https://img.shields.io/badge/Helm-0F1689.svg?logo=helm&logoColor=white" alt="Helm"/>  
   <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Teleport-6200EA?logo=teleport-new&logocolor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Vault-000000?logo=vault&logocolor=white"/>
 </p>
 
 ### 👉 Software & Tools
