@@ -103,19 +103,14 @@ Default
 <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/>
-</p>
-
-### 👉 Web Hosting
-<p>
-<img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github%20Actions-2370ED.svg?logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>  
 </p>
 
 ### 👉 Web Servers
 <p>
 <img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Nginx-009900?logo=nginx"/>  
 </p>
 
 ### 👉 Databases
