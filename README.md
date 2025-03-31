@@ -160,6 +160,7 @@ Default
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff"/>
+<img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/>  
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
 </p>
 
