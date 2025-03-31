@@ -76,7 +76,8 @@ Default
 <img src="https://img.shields.io/badge/Bash-681c64.svg?logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/>
 </p>
 
 ### 👉 Web Programming
@@ -119,6 +120,8 @@ Default
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
 <img src="https://img.shields.io/badge/OracleSQL-f80125.svg?logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
 </p>
 
 ### 👉 CI/CD
