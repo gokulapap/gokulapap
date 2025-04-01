@@ -72,13 +72,21 @@ Default
  
 ### 👉 Programming languages
 <p>
-<img src="https://img.shields.io/badge/Python-00599C.svg?logo=python&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Python-00599C.svg?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-681c64.svg?logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> -->
+<img src="assets/python.svg"/>
+<img src="assets/bash.svg"/>
+<img src="assets/c.svg"/>
+<img src="assets/cpp.svg"/>
+<img src="assets/java.svg"/>
+<img src="assets/go.svg"/>
 </p>
+
+
 
 ### 👉 Web Programming
 <p>
