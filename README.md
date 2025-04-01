@@ -90,56 +90,86 @@ Default
 
 ### 👉 Web Programming
 <p>
-<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"/> -->
+<img src="assets/html5.svg"/>
+<img src="assets/javascript.svg"/>
+<img src="assets/bootstrap.svg"/>
+<img src="assets/wordpress.svg"/>  
 </p>
 
 ### 👉 Frameworks
 <p>
-<img src="https://img.shields.io/badge/Selenium-008000.svg?logo=selenium&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Selenium-008000.svg?logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-00599C.svg?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-0f5238.svg?logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-00599C.svg?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-00599C.svg?logo=fastapi&logoColor=white"/> -->
+<img src="assets/selenium.svg"/>
+<img src="assets/flask.svg"/>
+<img src="assets/django.svg"/>
+<img src="assets/fastapi.svg"/>
 </p>
 
 ### 👉 Cloud System
 <p>
-<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"/>
+<!-- <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?logo=amazon-web-services&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>   -->
+<img src="assets/heroku.svg"/>
+<img src="assets/google-cloud.svg"/>
+<img src="assets/digitalocean.svg"/>
+<img src="assets/firebase.svg"/>
+<img src="assets/microsoft-azure.svg"/>
+<img src="assets/aws.svg"/>
+<img src="assets/netlify.svg"/>  
 </p>
 
 ### 👉 Web Servers
 <p>
-<img src="https://custom-icon-badges.demolab.com/badge/Nginx-009900?logo=nginx"/>
+<!-- <img src="https://custom-icon-badges.demolab.com/badge/Nginx-009900?logo=nginx"/>
 <img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/> -->
+<img src="assets/nginx.svg"/>
+<img src="assets/apache.svg"/>
+<img src="assets/gunicorn.svg"/>  
 </p>
 
 ### 👉 Databases
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
 <img src="https://custom-icon-badges.demolab.com/badge/OracleSQL-F80000?logo=oracle&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/> -->
+<img src="assets/postgresql.svg"/>
+<img src="assets/mysql.svg"/>
+<img src="assets/oracleSQL.svg"/>
+<img src="assets/sqlite.svg"/>
+<img src="assets/redis.svg"/>
+<img src="assets/mongodb.svg"/>
 </p>
 
 ### 👉 CI/CD
 <p>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
 <img src="https://custom-icon-badges.demolab.com/badge/ArgoWorkflows-E27602.svg?logo=argocd-new&logoColor=white"/>
 <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff"/>
-<img src="https://custom-icon-badges.demolab.com/badge/ArgoCD-E27602.svg?logo=argocd-new&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/ArgoCD-E27602.svg?logo=argocd-new&logoColor=white"/> -->
+<img src="assets/github-actions.svg"/>
+<img src="assets/jenkins.svg"/>
+<img src="assets/argoworkflows.svg"/>
+<img src="assets/travisci.svg"/>
+<img src="assets/circleci.svg"/>
+<img src="assets/argocd.svg"/>  
 </p>
 
 ### 👉 DevOps Tools
@@ -174,12 +204,18 @@ Default
 
 ### 👉 Operating System
 <p>
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+<!-- <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/macOS-343434?logo=apple&logoColor=F0F0F0"/>  
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/> -->
+<img src="assets/windows.svg"/>
+<img src="assets/kali-linux.svg"/>
+<img src="assets/ubuntu.svg"/>
+<img src="assets/alpine-linux.svg"/>
+<img src="assets/android.svg"/>
+<img src="assets/macos.svg"/>
 </p>
 
 
