@@ -174,7 +174,7 @@ Default
 
 ### 👉 DevOps Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689.svg?logo=helm&logoColor=white" alt="Helm"/>  
   <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white"/>
@@ -187,19 +187,34 @@ Default
   <img src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Hashicorp%20Vault-0D597F?logo=vault&logoColor=white"/>
-  <img src="assets/vault.svg">
   <img src="https://img.shields.io/badge/Atlantis-2496ED.svg?logo=terraform&logoColor=white"/>  
   <img src="https://custom-icon-badges.demolab.com/badge/Bazel-2ab53c?logo=bazel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/> -->
+  <img src="assets/docker.svg"/>
+  <img src="assets/kubernetes.svg"/>
+  <img src="assets/helm.svg" alt="Helm"/>  
+  <img src="assets/terraform.svg"/>
+  <img src="assets/jenkins.svg"/>
+  <img src="assets/git.svg"/>
+  <img src="assets/github.svg"/>
+  <img src="assets/teleport.svg"/>
+  <br>
+  <img src="assets/prometheus.svg"/>
+  <img src="assets/grafana.svg"/>
+  <img src="assets/slack.svg"/>
+  <img src="assets/hashicorp-vault.svg"/>
+  <img src="assets/atlantis.svg"/>  
+  <img src="assets/bazel.svg"/>
+  <img src="assets/jira.svg"/>
 </p>
 
 ### 👉 Software & Tools
 <p>
-<img src="https://img.shields.io/badge/Dockers-0db7ed.svg?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Git-F1502F.svg?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-ffffff.svg?logo=notion&logoColor=black"/>
-<img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+  <img src="assets/docker.svg"/>
+  <img src="assets/kubernetes.svg"/>
+  <img src="assets/git.svg"/>
+  <img src="assets/notion.svg"/>
+  <img src="assets/vs-code.svg"/>
 </p>
 
 ### 👉 Operating System
