@@ -149,6 +149,7 @@ Default
   <img src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Hashicorp%20Vault-0D597F?logo=vault&logocolor=white"/>
+  <img src="https://img.shields.io/badge/Atlantis-2496ED.svg?logo=terraform&logoColor=white"/>  
   <img src="https://custom-icon-badges.demolab.com/badge/Bazel-2ab53c?logo=bazel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/>
 </p>
