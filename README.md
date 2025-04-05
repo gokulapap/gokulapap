@@ -164,12 +164,12 @@ Default
 <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff"/>
 <img src="https://custom-icon-badges.demolab.com/badge/ArgoCD-E27602.svg?logo=argocd-new&logoColor=white"/> -->
-<img src="assets/github-actions.svg"/>
-<img src="assets/jenkins.svg"/>
-<img src="assets/argoworkflows.svg"/>
-<img src="assets/travisci.svg"/>
-<img src="assets/circleci.svg"/>
-<img src="assets/argocd.svg"/>  
+<img src="assets/github-actions.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/jenkins.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/argoworkflows.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/travisci.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/circleci.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/argocd.svg" style="height:27px; vertical-align:middle;"/>  
 </p>
 
 ### 👉 DevOps Tools
@@ -190,44 +190,44 @@ Default
   <img src="https://img.shields.io/badge/Atlantis-2496ED.svg?logo=terraform&logoColor=white"/>  
   <img src="https://custom-icon-badges.demolab.com/badge/Bazel-2ab53c?logo=bazel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/> -->
-  <img src="assets/docker.svg"/>
-  <img src="assets/kubernetes.svg"/>
-  <img src="assets/helm.svg" alt="Helm"/>  
-  <img src="assets/terraform.svg"/>
-  <img src="assets/jenkins.svg"/>
-  <img src="assets/git.svg"/>
-  <img src="assets/github.svg"/>
-  <img src="https://img.shields.io/badge/Kustomize-3178C6?&logo=kubernetes&logoColor=white"/>
-  <img src="assets/prometheus.svg"/>
-  <img src="assets/grafana.svg"/>
+  <img src="assets/docker.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/kubernetes.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/helm.svg" style="height:27px; vertical-align:middle;" alt="Helm"/>  
+  <img src="assets/terraform.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/jenkins.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/git.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/github.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/Kustomize-3178C6?&logo=kubernetes&logoColor=white" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/prometheus.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/grafana.svg" style="height:27px; vertical-align:middle;"/>
   <br>  
-  <img src="assets/teleport.svg"/>  
-  <img src="assets/slack.svg"/>
-  <img src="assets/hashicorp-vault.svg"/>
-  <img src="assets/atlantis.svg"/>  
-  <img src="assets/bazel.svg"/>
-  <img src="assets/jira.svg"/>
-  <img src="assets/pd.svg"/>
+  <img src="assets/teleport.svg" style="height:27px; vertical-align:middle;"/>  
+  <img src="assets/slack.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/hashicorp-vault.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/atlantis.svg" style="height:27px; vertical-align:middle;"/>  
+  <img src="assets/bazel.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/jira.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/pd.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Security Tools
 <p>
-  <img src="assets/synk.svg"/>
-  <img src="assets/trivy.svg"/>
-  <img src="assets/burp.svg"/>
-  <img src="assets/metasploit.svg"/>
-  <img src="assets/pingsafe.svg"/>
-  <img src="assets/zap-new.svg">
+  <img src="assets/synk.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/trivy.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/burp.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/metasploit.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/pingsafe.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/zap-new.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Software & Tools
 <p>
-  <img src="assets/docker.svg"/>
-  <img src="assets/kubernetes.svg"/>
-  <img src="assets/git.svg"/>
-  <img src="assets/notion.svg"/>
-  <img src="https://img.shields.io/badge/Postman-EF5B25?&logo=postman&logoColor=white"/>
-  <img src="assets/vs-code.svg"/>
+  <img src="assets/docker.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/kubernetes.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/git.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/notion.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/Postman-EF5B25?&logo=postman&logoColor=white" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/vs-code.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Operating System
@@ -238,14 +238,13 @@ Default
 <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/macOS-343434?logo=apple&logoColor=F0F0F0"/>  
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/> -->
-<img src="assets/windows.svg"/>
-<img src="assets/kali-linux.svg"/>
-<img src="assets/ubuntu.svg"/>
-<img src="assets/alpine-linux.svg"/>
-<img src="assets/android.svg"/>
-<img src="assets/macos.svg"/>
+<img src="assets/windows.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/kali-linux.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/ubuntu.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/alpine-linux.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/android.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/macos.svg" style="height:27px; vertical-align:middle;"/>
 </p>
-
 
 <!--
 **📩 Latest Tech Blog Posts**
