@@ -111,6 +111,7 @@ Default
 <img src="assets/flask.svg"/>
 <img src="assets/django.svg"/>
 <img src="assets/fastapi.svg"/>
+<img src="assets/hera.svg"/>
 </p>
 
 ### 👉 Cloud System
