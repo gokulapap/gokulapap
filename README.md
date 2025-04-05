@@ -216,7 +216,7 @@ Default
   <img src="assets/burp.svg"/>
   <img src="assets/metasploit.svg"/>
   <img src="assets/pingsafe.svg"/>
-  <img src="assets/zap.svg">
+  <img src="assets/zap-new.svg">
 </p>
 
 ### 👉 Software & Tools
