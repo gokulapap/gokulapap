@@ -79,14 +79,12 @@ Default
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> -->
 <img src="assets/python.svg" style="height:27px; vertical-align:middle;"/>
-<img src="assets/bash.svg"/>
-<img src="assets/c.svg"/>
-<img src="assets/cpp.svg"/>
-<img src="assets/java-new.svg"/>
-<img src="assets/go.svg"/>
+<img src="assets/bash.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/c.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/cpp.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/java-new.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/go.svg" style="height:27px; vertical-align:middle;"/>
 </p>
-
-
 
 ### 👉 Web Programming
 <p>
@@ -94,11 +92,11 @@ Default
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"/> -->
-<img src="assets/html5.svg"/>
-<img src="assets/css.svg"/>
-<img src="assets/javascript.svg"/>
-<img src="assets/bootstrap.svg"/>
-<img src="assets/wordpress.svg"/>  
+<img src="assets/html5.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/css.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/javascript.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/bootstrap.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/wordpress.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Frameworks
@@ -107,11 +105,11 @@ Default
 <img src="https://img.shields.io/badge/Flask-00599C.svg?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-0f5238.svg?logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-00599C.svg?logo=fastapi&logoColor=white"/> -->
-<img src="assets/selenium.svg"/>
-<img src="assets/flask.svg"/>
-<img src="assets/django.svg"/>
-<img src="assets/fastapi.svg"/>
-<img src="assets/hera-new.svg"/>
+<img src="assets/selenium.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/flask.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/django.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/fastapi.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/hera-new.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Cloud System
@@ -123,13 +121,13 @@ Default
 <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?logo=amazon-web-services&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>   -->
-<img src="assets/heroku.svg"/>
-<img src="assets/google-cloud.svg"/>
-<img src="assets/digitalocean.svg"/>
-<img src="assets/firebase.svg"/>
-<img src="assets/microsoft-azure.svg"/>
-<img src="assets/aws.svg"/>
-<img src="assets/netlify.svg"/>  
+<img src="assets/heroku.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/google-cloud.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/digitalocean.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/firebase.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/microsoft-azure.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/aws.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/netlify.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Web Servers
@@ -137,9 +135,9 @@ Default
 <!-- <img src="https://custom-icon-badges.demolab.com/badge/Nginx-009900?logo=nginx"/>
 <img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/> -->
-<img src="assets/nginx.svg"/>
-<img src="assets/apache.svg"/>
-<img src="assets/gunicorn.svg"/>  
+<img src="assets/nginx.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/apache.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/gunicorn.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Databases
@@ -150,12 +148,12 @@ Default
 <img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/> -->
-<img src="assets/postgresql.svg"/>
-<img src="assets/mysql.svg"/>
-<img src="assets/oracleSQL.svg"/>
-<img src="assets/sqlite.svg"/>
-<img src="assets/redis.svg"/>
-<img src="assets/mongodb.svg"/>
+<img src="assets/postgresql.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/mysql.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/oracleSQL.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/sqlite.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/redis.svg" style="height:27px; vertical-align:middle;"/>
+<img src="assets/mongodb.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 CI/CD
