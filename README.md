@@ -227,6 +227,7 @@ Default
   <img src="assets/kubernetes.svg"/>
   <img src="assets/git.svg"/>
   <img src="assets/notion.svg"/>
+  <img src="https://img.shields.io/badge/Postman-EF5B25?&logo=postman&logoColor=white"/>
   <img src="assets/vs-code.svg"/>
 </p>
 
