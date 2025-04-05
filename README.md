@@ -209,6 +209,18 @@ Default
   <img src="assets/pd.svg"/>
 </p>
 
+### 👉 Security Tools
+<p>
+  <img src="assets/synk.svg"/>
+  <img src="assets/burp.svg"/>
+  <img src="assets/nmap.svg"/>
+  <img src="assets/metasploit.svg"/>
+  <img src="assets/trivy.svg"/>
+  <img src="assets/zap.svg"/>
+  <img src="assets/pingsafe.svg"/>
+  <img src="assets/nuclei.svg"/>
+</p>
+
 ### 👉 Software & Tools
 <p>
   <img src="assets/docker.svg"/>
