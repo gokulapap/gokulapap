@@ -206,6 +206,7 @@ Default
   <img src="assets/atlantis.svg"/>  
   <img src="assets/bazel.svg"/>
   <img src="assets/jira.svg"/>
+  <img src="assets/pd.svg"/>
 </p>
 
 ### 👉 Software & Tools
