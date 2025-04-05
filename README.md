@@ -198,9 +198,9 @@ Default
   <img src="assets/git.svg"/>
   <img src="assets/github.svg"/>
   <img src="assets/teleport.svg"/>
-  <br>
   <img src="assets/prometheus.svg"/>
   <img src="assets/grafana.svg"/>
+  <br>  
   <img src="assets/slack.svg"/>
   <img src="assets/hashicorp-vault.svg"/>
   <img src="assets/atlantis.svg"/>  
