@@ -199,10 +199,11 @@ Default
   <img src="assets/jenkins.svg"/>
   <img src="assets/git.svg"/>
   <img src="assets/github.svg"/>
-  <img src="assets/teleport.svg"/>
+  <img src="https://img.shields.io/badge/Kustomize-3178C6?&logo=kubernetes&logoColor=white"/>
   <img src="assets/prometheus.svg"/>
   <img src="assets/grafana.svg"/>
   <br>  
+  <img src="assets/teleport.svg"/>  
   <img src="assets/slack.svg"/>
   <img src="assets/hashicorp-vault.svg"/>
   <img src="assets/atlantis.svg"/>  
