@@ -95,6 +95,7 @@ Default
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"/> -->
 <img src="assets/html5.svg"/>
+<img src="assets/css.svg"/>
 <img src="assets/javascript.svg"/>
 <img src="assets/bootstrap.svg"/>
 <img src="assets/wordpress.svg"/>  
