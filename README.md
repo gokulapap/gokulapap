@@ -200,7 +200,6 @@ Default
   <img src="https://img.shields.io/badge/Kustomize-3178C6?&logo=kubernetes&logoColor=white" style="height:27px; vertical-align:middle;"/>
   <img src="assets/prometheus.svg" style="height:27px; vertical-align:middle;"/>
   <img src="assets/grafana.svg" style="height:27px; vertical-align:middle;"/>
-  <br>  
   <img src="assets/teleport.svg" style="height:27px; vertical-align:middle;"/>  
   <img src="assets/slack.svg" style="height:27px; vertical-align:middle;"/>
   <img src="assets/hashicorp-vault.svg" style="height:27px; vertical-align:middle;"/>
