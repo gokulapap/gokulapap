@@ -213,12 +213,10 @@ Default
 <p>
   <img src="assets/synk.svg"/>
   <img src="assets/burp.svg"/>
-  <img src="assets/nmap.svg"/>
   <img src="assets/metasploit.svg"/>
   <img src="assets/trivy.svg"/>
-  <img src="assets/zap.svg"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/ZAP-4A90E2.svg?logo=owasp&logoColor=white">
   <img src="assets/pingsafe.svg"/>
-  <img src="assets/nuclei.svg"/>
 </p>
 
 ### 👉 Software & Tools
