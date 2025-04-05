@@ -78,7 +78,7 @@ Default
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> -->
-<img src="assets/python.svg"/>
+<img src="assets/python.svg" width="200" height="150"/>
 <img src="assets/bash.svg"/>
 <img src="assets/c.svg"/>
 <img src="assets/cpp.svg"/>
