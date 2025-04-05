@@ -82,7 +82,7 @@ Default
 <img src="assets/bash.svg"/>
 <img src="assets/c.svg"/>
 <img src="assets/cpp.svg"/>
-<img src="assets/java.svg"/>
+<img src="assets/java-new.svg"/>
 <img src="assets/go.svg"/>
 </p>
 
