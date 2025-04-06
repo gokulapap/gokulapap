@@ -49,21 +49,21 @@ Default
 ### 🌐  My Online Presence
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gokulap" target="_blank">
-  <img align="center" alt="gokulap | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/gokulap">
+  <img align="left" alt="gokulap | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/CodingGokul" target="_blank">
-  <img align="center" alt="gokulap | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/gokulapap" target="_blank">
-  <img align="center" alt="gokulap | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
+<a href="https://twitter.com/CodingGokul">
+  <img align="left" alt="gokulap | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a>
+<a href="https://www.instagram.com/gokulapap">
+  <img align="left" alt="gokulap | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a>
 <a href="mailto:apgokul008@gmail.com">
-  <img align="center" alt="gokulap | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+  <img align="left" alt="gokulap | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
 <a href="https://gokulapap.github.io">
-<img align="center" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp;
+<img align="left" alt="gokulap | Blog" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+</a> 
 
 <a href="https://satyamgoyal.social">
     <img align="left" alt="Satyam Goyal | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
