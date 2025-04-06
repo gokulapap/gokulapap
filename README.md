@@ -395,9 +395,9 @@ Default
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dgokulapap">
 </a>
 &nbsp; &nbsp;
-<img src="https://komarev.com/ghpvc/?username=gokulapap" alt="gokulapap"/>
+<img src="https://komarev.com/ghpvc/?username=gokulapap&logo=github" alt="gokulapap"/>
 &nbsp; &nbsp;
-<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
+<img src="https://img.shields.io/github/stars/gokulapap?label=Stars&logo=github" alt="stars">
 </p>
   
 <p align="center">
