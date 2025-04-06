@@ -62,13 +62,13 @@ Default
   <img align="left" alt="gokulap | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 <a href="https://gokulapap.github.io">
-  <img align="left" alt="gokulap | Blog" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+  <img align="left" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> 
 <a href="https://t.me/gokul_ap">
-  <img align="left" alt="gokulap | Blog" width="24px" src="img/telegram.svg" />
+  <img align="left" alt="gokulap | Blog" width="30px" src="img/telegram.svg" />
 </a>
-<a href="">
-  <img align="left" alt="gokulap | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+<a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing">
+  <img align="left" alt="gokulap | Resume" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
 
