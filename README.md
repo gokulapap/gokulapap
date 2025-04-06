@@ -63,7 +63,20 @@ Default
 </a> &nbsp;&nbsp;
 <a href="https://gokulapap.github.io">
 <img align="center" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> 
+</a> &nbsp;&nbsp;
+
+<a href="https://satyamgoyal.social">
+    <img align="left" alt="Satyam Goyal | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+  <a href="https://www.linkedin.com/in/satyu26/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/SatyuGoyal">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/15KasRRF-dGRDHHxTLptFjMCZBk37zIUe/view?usp=sharing">
+    <img align="left" alt="Satyam Goyal | Gmail" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+  </a> &nbsp;&nbsp;
+
 <p>
 
 <hr>
