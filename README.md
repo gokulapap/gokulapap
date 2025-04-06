@@ -59,7 +59,7 @@ Default
   <img align="left" alt="gokulap | Instagram" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a>
 <a href="mailto:apgokul008@gmail.com">
-  <img align="left" alt="gokulap | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="left" alt="gokulap | Gmail" width="33px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 <a href="https://gokulapap.github.io">
   <img align="left" alt="gokulap | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
@@ -68,7 +68,7 @@ Default
   <img align="left" alt="gokulap | Blog" width="31px" src="img/telegram.svg" />
 </a>
 <a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing">
-  <img align="left" alt="gokulap | Resume" width="29px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+  <img align="left" alt="gokulap | Resume" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
 
