@@ -127,10 +127,10 @@ Default
 <img src="assets/firebase.svg" style="height:27px; vertical-align:middle;"/>
 <img src="assets/microsoft-azure.svg" style="height:27px; vertical-align:middle;"/>
 <img src="assets/aws.svg" style="height:27px; vertical-align:middle;"/>
-<img src="assets/netlify.svg" style="height:27px; vertical-align:middle;"/>
+<img src="https://img.shields.io/badge/Replit-673AB7?&logo=replit&logoColor=white" style="height:27px; vertical-align:middle;"/>
 <img src="https://img.shields.io/badge/Render-3D6BE3?&logo=render&logoColor=white" style="height:27px; vertical-align:middle;"/>
 <img src="https://img.shields.io/badge/Vercel-666666?&logo=vercel&logoColor=white" style="height:27px; vertical-align:middle;"/>
-<img src="https://img.shields.io/badge/Replit-673AB7?&logo=replit&logoColor=white" style="height:27px; vertical-align:middle;"/>
+<img src="assets/netlify.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Web Servers
