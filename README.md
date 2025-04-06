@@ -51,22 +51,22 @@ Default
 <p align="left">
 <a href="https://www.linkedin.com/in/gokulap">
   <img align="left" alt="gokulap | Linkedin" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
+</a> &nbsp;
 <a href="https://twitter.com/CodingGokul">
   <img align="left" alt="gokulap | Twitter" width="29px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
+</a> &nbsp;
 <a href="https://www.instagram.com/gokulapap">
   <img align="left" alt="gokulap | Instagram" width="29px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="mailto:apgokul008@gmail.com">
   <img align="left" alt="gokulap | Gmail" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://gokulapap.github.io">
   <img align="left" alt="gokulap | Blog" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://t.me/gokul_ap">
   <img align="left" alt="gokulap | Blog" width="29px" src="img/telegram.svg" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing">
   <img align="left" alt="gokulap | Resume" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a>
