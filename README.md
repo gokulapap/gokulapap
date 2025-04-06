@@ -211,6 +211,7 @@ Default
   <img src="assets/grafana.svg" style="height:27px; vertical-align:middle;"/>
   <img src="assets/teleport.svg" style="height:27px; vertical-align:middle;"/>  
   <img src="assets/slack.svg" style="height:27px; vertical-align:middle;"/>
+  <img src="assets/kafka.svg" style="height:27px; vertical-align:middle;"/>
   <img src="assets/hashicorp-vault.svg" style="height:27px; vertical-align:middle;"/>
   <img src="assets/atlantis.svg" style="height:27px; vertical-align:middle;"/>  
   <img src="assets/bazel.svg" style="height:27px; vertical-align:middle;"/>
