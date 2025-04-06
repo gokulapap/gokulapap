@@ -129,7 +129,7 @@ Default
 <img src="assets/aws.svg" style="height:27px; vertical-align:middle;"/>
 <img src="https://img.shields.io/badge/Replit-673AB7?&logo=replit&logoColor=white" style="height:27px; vertical-align:middle;"/>
 <img src="https://img.shields.io/badge/Render-3D6BE3?&logo=render&logoColor=white" style="height:27px; vertical-align:middle;"/>
-<img src="https://img.shields.io/badge/Vercel-F26207?&logo=vercel&logoColor=white" style="height:27px; vertical-align:middle;"/>
+<img src="https://img.shields.io/badge/Vercel-E27602?&logo=vercel&logoColor=white" style="height:27px; vertical-align:middle;"/>
 <img src="assets/netlify.svg" style="height:27px; vertical-align:middle;"/>
 </p>
 
