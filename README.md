@@ -252,7 +252,7 @@ Default
 <img src="assets/ubuntu.svg" style="height:26px; vertical-align:middle;"/>
 <img src="assets/alpine-linux.svg" style="height:26px; vertical-align:middle;"/>
 <img src="assets/android.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/macos.svg" style="height:26px; vertical-align:middle;"/>
+<img src="assets/macos-new.svg" style="height:26px; vertical-align:middle;"/>
 </p>
 
 <!--
