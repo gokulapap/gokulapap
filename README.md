@@ -219,7 +219,7 @@ Default
   <img src="assets/pd.svg" style="height:26px; vertical-align:middle;"/>
 </p>
 
-### 👉 Security Tools
+### 👉 Security Tools & Platforms
 <p>
   <img src="assets/synk.svg" style="height:26px; vertical-align:middle;"/>
   <img src="assets/trivy.svg" style="height:26px; vertical-align:middle;"/>
@@ -227,6 +227,7 @@ Default
   <img src="assets/metasploit.svg" style="height:26px; vertical-align:middle;"/>
   <img src="assets/pingsafe.svg" style="height:26px; vertical-align:middle;"/>
   <img src="assets/zap-new.svg" style="height:26px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/HackTheBox-a3df02?&logo=hackthebox&logoColor=white" style="height:26px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Software & Tools
