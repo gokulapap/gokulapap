@@ -68,7 +68,7 @@ Default
   <img align="left" alt="gokulap | Blog" width="29px" src="img/telegram.svg" />
 </a>&nbsp;
 <a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing">
-  <img align="left" alt="gokulap | Resume" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+  <img align="left" alt="gokulap | Resume" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a>
 <p>
 
@@ -84,12 +84,12 @@ Default
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"/> -->
-<img src="assets/python.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/bash.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/c.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/cpp.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/java-new.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/go.svg" style="height:26px; vertical-align:middle;"/>
+<img src="assets/python.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/bash.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/c.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/cpp.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/java-new.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/go.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Web Programming
@@ -98,11 +98,11 @@ Default
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"/> -->
-<img src="assets/html5.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/css.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/javascript.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/bootstrap.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/wordpress.svg" style="height:26px; vertical-align:middle;"/>
+<img src="assets/html5.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/css.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/javascript.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/bootstrap.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/wordpress.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Frameworks
@@ -111,11 +111,11 @@ Default
 <img src="https://img.shields.io/badge/Flask-00599C.svg?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-0f5238.svg?logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-00599C.svg?logo=fastapi&logoColor=white"/> -->
-<img src="assets/selenium.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/flask.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/django.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/fastapi.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/hera-new.svg" style="height:26px; vertical-align:middle;"/>
+<img src="assets/selenium.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/flask.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/django.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/fastapi.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/hera-new.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Cloud System
@@ -127,16 +127,16 @@ Default
 <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?logo=amazon-web-services&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-4d9abf.svg?logo=netlify&logoColor=white"/>   -->
-<img src="assets/heroku.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/google-cloud.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/digitalocean.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/firebase.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/microsoft-azure.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/aws.svg" style="height:26px; vertical-align:middle;"/>
-<img src="https://img.shields.io/badge/Replit-673AB7?&logo=replit&logoColor=white" style="height:26px; vertical-align:middle;"/>
-<img src="https://img.shields.io/badge/Render-3D6BE3?&logo=render&logoColor=white" style="height:26px; vertical-align:middle;"/>
-<img src="https://img.shields.io/badge/Vercel-E27602?&logo=vercel&logoColor=white" style="height:26px; vertical-align:middle;"/>
-<img src="assets/netlify.svg" style="height:26px; vertical-align:middle;"/>
+<img src="assets/heroku.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/google-cloud.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/digitalocean.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/firebase.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/microsoft-azure.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/aws.svg" style="height:25px; vertical-align:middle;"/>
+<img src="https://img.shields.io/badge/Replit-673AB7?&logo=replit&logoColor=white" style="height:25px; vertical-align:middle;"/>
+<img src="https://img.shields.io/badge/Render-3D6BE3?&logo=render&logoColor=white" style="height:25px; vertical-align:middle;"/>
+<img src="https://img.shields.io/badge/Vercel-E27602?&logo=vercel&logoColor=white" style="height:25px; vertical-align:middle;"/>
+<img src="assets/netlify.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Web Servers
@@ -144,9 +144,9 @@ Default
 <!-- <img src="https://custom-icon-badges.demolab.com/badge/Nginx-009900?logo=nginx"/>
 <img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/> -->
-<img src="assets/nginx.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/apache.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/gunicorn.svg" style="height:26px; vertical-align:middle;"/>
+<img src="assets/nginx.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/apache.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/gunicorn.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Databases
@@ -157,12 +157,12 @@ Default
 <img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/> -->
-<img src="assets/postgresql.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/mysql.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/oracleSQL.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/sqlite.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/redis.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/mongodb.svg" style="height:26px; vertical-align:middle;"/>
+<img src="assets/postgresql.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/mysql.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/oracleSQL.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/sqlite.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/redis.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/mongodb.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 CI/CD
@@ -173,12 +173,12 @@ Default
 <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff"/>
 <img src="https://custom-icon-badges.demolab.com/badge/ArgoCD-E27602.svg?logo=argocd-new&logoColor=white"/> -->
-<img src="assets/github-actions.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/jenkins.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/argoworkflows.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/travisci.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/circleci.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/argocd.svg" style="height:26px; vertical-align:middle;"/>  
+<img src="assets/github-actions.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/jenkins.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/argoworkflows.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/travisci.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/circleci.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/argocd.svg" style="height:25px; vertical-align:middle;"/>  
 </p>
 
 ### 👉 DevOps Tools
@@ -199,45 +199,46 @@ Default
   <img src="https://img.shields.io/badge/Atlantis-2496ED.svg?logo=terraform&logoColor=white"/>  
   <img src="https://custom-icon-badges.demolab.com/badge/Bazel-2ab53c?logo=bazel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/> -->
-  <img src="assets/docker.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/kubernetes.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/helm.svg" style="height:26px; vertical-align:middle;" alt="Helm"/>  
-  <img src="assets/terraform.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/jenkins.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/git.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/github.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="https://img.shields.io/badge/Kustomize-3178C6?&logo=kubernetes&logoColor=white" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/prometheus.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/grafana.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/teleport.svg" style="height:26px; vertical-align:middle;"/>  
-  <img src="assets/slack.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/kafka.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/hashicorp-vault.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/atlantis.svg" style="height:26px; vertical-align:middle;"/>  
-  <img src="assets/bazel.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/jira.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/pd.svg" style="height:26px; vertical-align:middle;"/>
+  <img src="assets/docker.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/kubernetes.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/helm.svg" style="height:25px; vertical-align:middle;" alt="Helm"/>  
+  <img src="assets/terraform.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/jenkins.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/git.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/github.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/Kustomize-3178C6?&logo=kubernetes&logoColor=white" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/prometheus.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/grafana.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/teleport.svg" style="height:25px; vertical-align:middle;"/>  
+  <img src="assets/slack.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/kafka.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/hashicorp-vault.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/atlantis.svg" style="height:25px; vertical-align:middle;"/>  
+  <img src="assets/bazel.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/jira.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/pd.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Security Tools & Platforms
 <p>
-  <img src="assets/synk.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/trivy.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/burp.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/metasploit.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/pingsafe.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/zap-new.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="https://img.shields.io/badge/HackTheBox-a3df02?&logo=hackthebox&logoColor=white" style="height:26px; vertical-align:middle;"/>
+  <img src="assets/synk.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/trivy.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/burp.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/metasploit.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/pingsafe.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/zap-new.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/HackTheBox-a3df02?&logo=hackthebox&logoColor=white" style="height:25px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/TryHackMe-ff2c2c?&logo=tryhackme&logoColor=white" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Software & Tools
 <p>
-  <img src="assets/docker.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/kubernetes.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/git.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/notion.svg" style="height:26px; vertical-align:middle;"/>
-  <img src="https://img.shields.io/badge/Postman-EF5B25?&logo=postman&logoColor=white" style="height:26px; vertical-align:middle;"/>
-  <img src="assets/vs-code.svg" style="height:26px; vertical-align:middle;"/>
+  <img src="assets/docker.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/kubernetes.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/git.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/notion.svg" style="height:25px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/Postman-EF5B25?&logo=postman&logoColor=white" style="height:25px; vertical-align:middle;"/>
+  <img src="assets/vs-code.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Operating System
@@ -248,12 +249,12 @@ Default
 <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/macOS-343434?logo=apple&logoColor=F0F0F0"/>  
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/> -->
-<img src="assets/windows.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/kali-linux.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/ubuntu.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/alpine-linux.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/android.svg" style="height:26px; vertical-align:middle;"/>
-<img src="assets/macos-new.svg" style="height:26px; vertical-align:middle;"/>
+<img src="assets/windows.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/kali-linux.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/ubuntu.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/alpine-linux.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/android.svg" style="height:25px; vertical-align:middle;"/>
+<img src="assets/macos-new.svg" style="height:25px; vertical-align:middle;"/>
 </p>
 
 <!--
