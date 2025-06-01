@@ -36,7 +36,7 @@ Default
 <hr>
 
 ### 🏆 Achievements
-- 🏅 **Google Hall of Fame** for reporting a critical security vulnerability.
+- 🏅 **Google Hall of Fame** for reporting a security vulnerability in Google Hangouts.
 - 🐞 Reported **100+ security vulnerabilities** through bug bounties
 - 🔎 Researched and identified Docker security flaws, and cloud vulnerabilities.
 - 🛠️ Built **Reconator**, an automated reconnaissance tool for ethical hacking.
