@@ -29,8 +29,8 @@ Default
 - 🛡️ Cybersecurity enthusiast, automation geek, and DevOps practitioner — building tools that make a difference!
 - 🔭 Currently working on Python, Penetration Testing, and DevOps
 - ⚙️ Writing `.py` scripts daily to automate security and DevOps workflows
-- 🤝 Open to collaborating on Python, Web Development, CTFs and DevOps
-- 💬 Ask me about Python, CTFs, Ethical Hacking, Automation and DevSecOps
+- 🤝 Open to collaborating on Python, DevOps and Pentesting
+- 💬 Ask me about Python, Ethical Hacking, Automation and DevSecOps
 - 📫 Connect with me: **[GOKUL A.P](https://www.linkedin.com/in/gokulap)** (Linkedin)
 
 <hr>
