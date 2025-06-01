@@ -218,6 +218,7 @@ Default
   <img src="assets/jira.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/pd.svg" style="height:24px; vertical-align:middle;"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Cloud%20Custodian-2A6EBB.svg?logo=custodian" style="height:24px; vertical-align:middle;"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Keda-1D2F4E.svg?logo=keda-new" style="height:24px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Analytics Tools
