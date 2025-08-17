@@ -227,7 +227,7 @@ Default
 ### 👉 Analytics Tools
 <p>
   <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" style="height:24px; vertical-align:middle;"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" style="height:24px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/Pandas-0F1689?logo=pandas&logoColor=fff" style="height:24px; vertical-align:middle;"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" style="height:24px; vertical-align:middle;"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" style="height:24px; vertical-align:middle;"/>
   <img src="https://img.shields.io/badge/Superset-00B5AD?&logo=apachesuperset&logoColor=white" style="height:24px; vertical-align:middle;"/>
