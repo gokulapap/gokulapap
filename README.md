@@ -209,12 +209,12 @@ Default
   <img src="https://img.shields.io/badge/Kustomize-3178C6?&logo=kubernetes&logoColor=white" style="height:24px; vertical-align:middle;"/>
   <img src="assets/prometheus.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/grafana.svg" style="height:24px; vertical-align:middle;"/>
+  <img src="assets/opensearch.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/teleport.svg" style="height:24px; vertical-align:middle;"/>  
   <img src="assets/slack.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/kafka.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/hashicorp-vault.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/atlantis.svg" style="height:24px; vertical-align:middle;"/>
-  <img src="assets/opensearch.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/bazel.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/jira.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/pd.svg" style="height:24px; vertical-align:middle;"/>
