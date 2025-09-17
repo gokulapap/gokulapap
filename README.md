@@ -206,6 +206,7 @@ Default
   <img src="assets/jenkins.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/git.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/github.svg" style="height:24px; vertical-align:middle;"/>
+  <img src="assets/istio.svg" style="height:24px; vertical-align:middle;"/>
   <img src="https://img.shields.io/badge/Kustomize-3178C6?&logo=kubernetes&logoColor=white" style="height:24px; vertical-align:middle;"/>
   <img src="assets/prometheus.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/grafana.svg" style="height:24px; vertical-align:middle;"/>
