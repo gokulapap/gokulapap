@@ -213,6 +213,7 @@ Default
   <img src="assets/opensearch.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/teleport.svg" style="height:24px; vertical-align:middle;"/>  
   <img src="assets/slack.svg" style="height:24px; vertical-align:middle;"/>
+  <img src="assets/artifactory.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/kafka.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/hashicorp-vault.svg" style="height:24px; vertical-align:middle;"/>
   <img src="assets/atlantis.svg" style="height:24px; vertical-align:middle;"/>
@@ -223,6 +224,7 @@ Default
   <img src="https://custom-icon-badges.demolab.com/badge/Keda-1D2F4E.svg?logo=keda-icon-white" style="height:24px; vertical-align:middle;"/>
   <img src="https://img.shields.io/badge/Victoria%20Metrics-007AFF?&logo=victoriametrics&logoColor=white" style="height:24px; vertical-align:middle;"/>
   <img src="assets/opa.svg" style="height:24px; vertical-align:middle;"/>
+  <img src="assets/podman.svg" style="height:24px; vertical-align:middle;"/>
 </p>
 
 ### 👉 Analytics Tools
