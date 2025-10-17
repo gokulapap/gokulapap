@@ -118,7 +118,7 @@ Default
 <img src="assets/hera-new.svg" style="height:24px; vertical-align:middle;"/>
 </p>
 
-### 👉 Cloud System
+### 👉 Cloud Systems
 <p>
 <!-- <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
