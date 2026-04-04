@@ -433,8 +433,8 @@ Default
 </p>
 
 ![Stats](./profile/stats.svg)
+<br>
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <p align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gokulapap&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
