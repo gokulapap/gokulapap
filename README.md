@@ -433,8 +433,9 @@ Default
 </p>
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gokulapap&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight" alt="languages" height="165">
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </p>
 
 <p align=center>
