@@ -431,12 +431,10 @@ Default
 &nbsp; &nbsp;
 <img src="https://img.shields.io/github/stars/gokulapap?label=Stars&logo=github" alt="stars">
 </p>
-  
-<p align="center">
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-</p>
 
 <p align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gokulapap&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
