@@ -202,7 +202,7 @@
 
 ### 🌐 Online Presence
 
-<p align="center">
+
   <a href="https://gokulap.me" target="_blank" rel="noopener noreferrer" title="Portfolio">
     <img alt="Portfolio" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/www.svg"/>
   </a>&nbsp;&nbsp;
@@ -227,7 +227,6 @@
   <a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing" target="_blank" rel="noopener noreferrer" title="Resume">
     <img alt="Resume" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/resume.png"/>
   </a>
-</p>
 
 ---
 
