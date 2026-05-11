@@ -74,8 +74,6 @@
   </tr>
 </table>
 
-<sub>More: <a href="https://github.com/gokulapap/submax" target="_blank" rel="noopener noreferrer">submax</a> · <a href="https://github.com/gokulapap/dirbrute" target="_blank" rel="noopener noreferrer">dirbrute</a> · <a href="https://github.com/gokulapap/bugdork" target="_blank" rel="noopener noreferrer">bugdork</a> · <a href="https://github.com/gokulapap/subdomainer-flask" target="_blank" rel="noopener noreferrer">subdomainer-flask</a> · <a href="https://github.com/gokulapap/freedemy" target="_blank" rel="noopener noreferrer">freedemy</a> · <a href="https://github.com/gokulapap?tab=repositories" target="_blank" rel="noopener noreferrer">all repos →</a></sub>
-
 ---
 
 ### 🧰 Tech I work with
@@ -116,17 +114,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Atlantis-129BDC?logo=terraform&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Atlantis-129BDC?logo=atlantis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kustomize-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Kustomize-326CE5?logo=kustomize&logoColor=white"/>
   <img src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keda-1D2F4E?logo=keda&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Keda-1D2F4E?logo=keda-icon-white&logoColor=white"/>
 </p>
 
 **🚀 CI/CD & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Argo_Workflows-E27602?logo=argo&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/ArgoCD-EF7B4D?logo=argocd-new&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Argo_Workflows-E27602?logo=argocd-new&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white"/>
@@ -140,18 +138,18 @@
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VictoriaMetrics-007AFF?logo=victoriametrics&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/VictoriaMetrics-007AFF?logo=victoriametrics-new&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubecost-6F2DA8?logo=kubernetes&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Kubecost-6F2DA8?logo=kubecost&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vault-FFEC6E?logo=vault&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Teleport-6200EA?logo=teleport&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Vault-FFEC6E?logo=vault&logoColor=black"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Teleport-6200EA?logo=teleport&logoColor=white"/>
   <img src="https://img.shields.io/badge/PagerDuty-06AC38?logo=pagerduty&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OPA-7B68EE?logo=open-policy-agent&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kyverno-3C3CFF?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Custodian-2A6EBB?logo=amazon-aws&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/OPA-7B68EE?logo=opa&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Kyverno-3C3CFF?logo=kyverno-new&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Cloud_Custodian-2A6EBB?logo=custodian&logoColor=white"/>
 </p>
 
 **🗄️ Databases**
@@ -235,44 +233,43 @@
 
 ### 📊 GitHub Stats
 
-<h4 align="center">📈 Overall Stats & Top Languages</h4>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gokulapap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-</p>
+<h4>📈 Overall Stats & Top Languages</h4>
 
-<h4 align="center">🔥 Commit Streak</h4>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gokulapap&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=450"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450"/></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gokulapap&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=70A5FD&ring=BF91F3&stroke=BF91F3"/>
-</p>
+<h4>🔥 Commit Streak</h4>
 
-<h4 align="center">📋 Profile Summary</h4>
+<img src="https://streak-stats.demolab.com?user=gokulapap&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulapap&theme=tokyonight"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulapap&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulapap&theme=tokyonight"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulapap&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulapap&theme=tokyonight&utcOffset=5.5"/>
-</p>
+<h4>📋 Profile Summary</h4>
 
-<h4 align="center">🌊 Contribution Activity</h4>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulapap&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulapap&theme=tokyonight"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulapap&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulapap&theme=tokyonight"/></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulapap&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
-</p>
+<h4>🌊 Contribution Activity</h4>
 
-<h4 align="center">🏆 Achievements</h4>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulapap&theme=tokyo-night&hide_border=true&area=true"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokulapap&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8"/>
-</p>
+<h4>🏆 Achievements</h4>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gokulapap&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+
+</div>
 
 ---
 
