@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏅_Google_Hall_of_Fame-Recognized-FBBC04?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🐞_Bug_Bounties-100%2B_Reports-success?style=flat-square"/>
+  <img height="24" src="https://img.shields.io/badge/🏅_Google_Hall_of_Fame-Recognized-FBBC04?style=flat-square"/>
+  <img height="24" src="https://img.shields.io/badge/🐞_Bug_Bounties-100%2B_Reports-success?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=gokulapap&label=Profile%20views&color=36BCF7&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/gokulapap?label=Followers&logo=github&style=flat-square"/>
   <img src="https://img.shields.io/github/stars/gokulapap?label=Stars&logo=github&style=flat-square"/>
@@ -53,7 +53,7 @@
       <br><br>
       Production-grade framework for migrating Kubernetes Kustomize overlays into idiomatic Helm charts at scale.
       <br><br>
-      <img src="https://img.shields.io/badge/Kubernetes-DevOps-326CE5?logo=kubernetes&logoColor=white"/>
+      <img height="24" src="https://img.shields.io/badge/Kubernetes-DevOps-326CE5?logo=kubernetes&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -80,112 +80,112 @@
 
 **👨‍💻 Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C%2B%2B-00599C?logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img height="24" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/C/C%2B%2B-00599C?logo=cplusplus&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white"/>
 </p>
 
 **🧪 Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/Flask-3F4F75?logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-0F5238?logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hera-FF5C8D?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Flask-3F4F75?logo=flask&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Django-0F5238?logo=django&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Hera-FF5C8D?logo=python&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"/>
 </p>
 
 **☁️ Cloud & Infrastructure**
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Atlantis-129BDC?logo=atlantis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Kustomize-326CE5?logo=kustomize&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Keda-1D2F4E?logo=keda-icon-white&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Atlantis-129BDC?logo=atlantis&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Kustomize-326CE5?logo=kustomize&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Keda-1D2F4E?logo=keda-icon-white&logoColor=white"/>
 </p>
 
 **🚀 CI/CD & DevOps**
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/ArgoCD-EF7B4D?logo=argocd-new&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Argo_Workflows-E27602?logo=argocd-new&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?logo=travisci&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bazel-2AB53C?logo=bazel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artifactory-41BF47?logo=jfrog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/ArgoCD-EF7B4D?logo=argocd-new&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Argo_Workflows-E27602?logo=argocd-new&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Travis_CI-3EAAAF?logo=travisci&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Bazel-2AB53C?logo=bazel&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Artifactory-41BF47?logo=jfrog&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 </p>
 
 **📊 Observability & Platform**
 <p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/VictoriaMetrics-007AFF?logo=victoriametrics-new&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Kubecost-6F2DA8?logo=kubecost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Vault-FFEC6E?logo=vault&logoColor=black"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Teleport-6200EA?logo=teleport&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PagerDuty-06AC38?logo=pagerduty&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/OPA-7B68EE?logo=opa&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Kyverno-3C3CFF?logo=kyverno-new&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Cloud_Custodian-2A6EBB?logo=custodian&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/VictoriaMetrics-007AFF?logo=victoriametrics-new&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Kubecost-6F2DA8?logo=kubecost&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Vault-FFEC6E?logo=vault&logoColor=black"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Teleport-6200EA?logo=teleport&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/PagerDuty-06AC38?logo=pagerduty&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/OPA-7B68EE?logo=opa&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Kyverno-3C3CFF?logo=kyverno-new&logoColor=white"/>
+  <img height="24" src="https://custom-icon-badges.demolab.com/badge/Cloud_Custodian-2A6EBB?logo=custodian&logoColor=white"/>
 </p>
 
 **🗄️ Databases**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
 </p>
 
 **🛡️ Security & Pentesting**
 <p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?logo=trivy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PingSafe-FF4F8B?logo=pingsafe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004F8B?logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackTheBox-A3DF02?logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-FF2C2C?logo=tryhackme&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/OWASP_ZAP-00549E?logo=owasp&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Trivy-1904DA?logo=trivy&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/PingSafe-FF4F8B?logo=pingsafe&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Nmap-004F8B?logo=nmap&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/HackTheBox-A3DF02?logo=hackthebox&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/TryHackMe-FF2C2C?logo=tryhackme&logoColor=white"/>
 </p>
 
 **🖥️ Operating Systems & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alpine-0D597F?logo=alpinelinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-343434?logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Alpine-0D597F?logo=alpinelinux&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/macOS-343434?logo=apple&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
 </p>
 
 ---
