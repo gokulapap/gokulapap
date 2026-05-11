@@ -145,7 +145,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Vault-FFEC6E?logo=vault&logoColor=black"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Teleport-6200EA?logo=teleport&logoColor=white"/>
   <img src="https://img.shields.io/badge/PagerDuty-06AC38?logo=pagerduty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/OPA-7B68EE?logo=opa&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Kyverno-3C3CFF?logo=kyverno-new&logoColor=white"/>
