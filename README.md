@@ -9,11 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://gokulap.me"><img src="https://img.shields.io/badge/Portfolio-gokulap.me-7C3AED?logo=vercel&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/gokulap"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:apgokul008@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://twitter.com/CodingGokul"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-2EA44F?logo=readthedocs&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://gokulap.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-gokulap.me-7C3AED?logo=vercel&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/gokulap" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:apgokul008@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Reach_out-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-Download-2EA44F?logo=readthedocs&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
@@ -42,32 +41,40 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛰️ <a href="https://github.com/gokulapap/Reconator">Reconator</a></h4>
-      <p>Automated reconnaissance framework for ethical hackers. Chains subdomain enumeration, port scanning, and vulnerability discovery into a single workflow.</p>
+      <strong>🛰️ <a href="https://github.com/gokulapap/Reconator" target="_blank" rel="noopener noreferrer">Reconator</a></strong>
+      <br><br>
+      Automated reconnaissance framework for ethical hackers. Chains subdomain enumeration, port scanning, and vulnerability discovery into a single workflow.
+      <br><br>
       <img src="https://img.shields.io/github/stars/gokulapap/Reconator?style=social"/>
       <img src="https://img.shields.io/github/forks/gokulapap/Reconator?style=social"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🔧 <a href="https://github.com/gokulapap/kustomize_to_helm">Kustomize → Helm Migrator</a></h4>
-      <p>Production-grade framework for migrating Kubernetes Kustomize overlays into idiomatic Helm charts at scale.</p>
+      <strong>🔧 <a href="https://github.com/gokulapap/kustomize_to_helm" target="_blank" rel="noopener noreferrer">Kustomize → Helm Migrator</a></strong>
+      <br><br>
+      Production-grade framework for migrating Kubernetes Kustomize overlays into idiomatic Helm charts at scale.
+      <br><br>
       <img src="https://img.shields.io/badge/Kubernetes-DevOps-326CE5?logo=kubernetes&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/gokulapap/Pentesting-Resources">Pentesting Resources</a></h4>
-      <p>Curated playbook of techniques, payloads, and tooling references from real bug-bounty engagements.</p>
+      <strong>📚 <a href="https://github.com/gokulapap/Pentesting-Resources" target="_blank" rel="noopener noreferrer">Pentesting Resources</a></strong>
+      <br><br>
+      Curated playbook of techniques, payloads, and tooling references from real bug-bounty engagements.
+      <br><br>
       <img src="https://img.shields.io/github/stars/gokulapap/Pentesting-Resources?style=social"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/gokulapap/wappalyzer-cli">Wappalyzer CLI</a></h4>
-      <p>Fast CLI port of Wappalyzer for fingerprinting web technologies during recon — no browser required.</p>
+      <strong>🔍 <a href="https://github.com/gokulapap/wappalyzer-cli" target="_blank" rel="noopener noreferrer">Wappalyzer CLI</a></strong>
+      <br><br>
+      Fast CLI port of Wappalyzer for fingerprinting web technologies during recon — no browser required.
+      <br><br>
       <img src="https://img.shields.io/github/stars/gokulapap/wappalyzer-cli?style=social"/>
     </td>
   </tr>
 </table>
 
-<sub>More: <a href="https://github.com/gokulapap/submax">submax</a> · <a href="https://github.com/gokulapap/dirbrute">dirbrute</a> · <a href="https://github.com/gokulapap/bugdork">bugdork</a> · <a href="https://github.com/gokulapap/subdomainer-flask">subdomainer-flask</a> · <a href="https://github.com/gokulapap/freedemy">freedemy</a> · <a href="https://github.com/gokulapap?tab=repositories">all repos →</a></sub>
+<sub>More: <a href="https://github.com/gokulapap/submax" target="_blank" rel="noopener noreferrer">submax</a> · <a href="https://github.com/gokulapap/dirbrute" target="_blank" rel="noopener noreferrer">dirbrute</a> · <a href="https://github.com/gokulapap/bugdork" target="_blank" rel="noopener noreferrer">bugdork</a> · <a href="https://github.com/gokulapap/subdomainer-flask" target="_blank" rel="noopener noreferrer">subdomainer-flask</a> · <a href="https://github.com/gokulapap/freedemy" target="_blank" rel="noopener noreferrer">freedemy</a> · <a href="https://github.com/gokulapap?tab=repositories" target="_blank" rel="noopener noreferrer">all repos →</a></sub>
 
 ---
 
@@ -89,7 +96,7 @@
 
 **🧪 Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-3F4F75?logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-0F5238?logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"/>
@@ -137,7 +144,7 @@
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubecost-6F2DA8?logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?logo=vault&logoColor=black"/>
   <img src="https://img.shields.io/badge/Teleport-6200EA?logo=teleport&logoColor=white"/>
   <img src="https://img.shields.io/badge/PagerDuty-06AC38?logo=pagerduty&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
@@ -198,29 +205,29 @@
 ### 🌐 Online Presence
 
 <p align="center">
-  <a href="https://gokulap.me" target="_blank" title="Portfolio">
-    <img alt="Portfolio" height="36" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg"/>
+  <a href="https://gokulap.me" target="_blank" rel="noopener noreferrer" title="Portfolio">
+    <img alt="Portfolio" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/www.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gokulap" target="_blank" title="LinkedIn">
-    <img alt="LinkedIn" height="36" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/>
+  <a href="https://www.linkedin.com/in/gokulap" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img alt="LinkedIn" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/CodingGokul" target="_blank" title="Twitter">
-    <img alt="Twitter" height="36" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg"/>
+  <a href="https://twitter.com/CodingGokul" target="_blank" rel="noopener noreferrer" title="Twitter">
+    <img alt="Twitter" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Twitter.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/gokulapap" target="_blank" title="Instagram">
-    <img alt="Instagram" height="36" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg"/>
+  <a href="https://www.instagram.com/gokulapap" target="_blank" rel="noopener noreferrer" title="Instagram">
+    <img alt="Instagram" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Instagram.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:apgokul008@gmail.com" target="_blank" title="Gmail">
-    <img alt="Gmail" height="36" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/>
+  <a href="mailto:apgokul008@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail">
+    <img alt="Gmail" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="https://gokulapap.github.io" target="_blank" title="Blog">
-    <img alt="Blog" height="36" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg"/>
+  <a href="https://gokulapap.github.io" target="_blank" rel="noopener noreferrer" title="Blog">
+    <img alt="Blog" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/www.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/gokul_ap" target="_blank" title="Telegram">
+  <a href="https://t.me/gokul_ap" target="_blank" rel="noopener noreferrer" title="Telegram">
     <img alt="Telegram" height="36" src="img/telegram.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing" target="_blank" title="Resume">
-    <img alt="Resume" height="36" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png"/>
+  <a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing" target="_blank" rel="noopener noreferrer" title="Resume">
+    <img alt="Resume" height="36" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/resume.png"/>
   </a>
 </p>
 
@@ -231,8 +238,8 @@
 <h4 align="center">📈 Overall Stats & Top Languages</h4>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gokulapap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&bg_color=1a1b27"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b27"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gokulapap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulapap&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </p>
 
 <h4 align="center">🔥 Commit Streak</h4>
@@ -274,5 +281,5 @@
 </p>
 
 <p align="center">
-  <sub>⭐ From <a href="https://github.com/gokulapap">gokulapap</a> — if any of this helped, drop a star on a repo.</sub>
+  <sub>⭐ From <a href="https://github.com/gokulapap" target="_blank" rel="noopener noreferrer">gokulapap</a> — if any of this helped, drop a star on a repo.</sub>
 </p>
