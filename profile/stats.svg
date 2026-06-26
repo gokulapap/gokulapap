@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gokul AP's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 884, Total Commits  (last year) : 1108, Total PRs: 26, Total Issues: 7, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 884, Total Commits  (last year) : 1113, Total PRs: 26, Total Issues: 7, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.13616296572589;
+        stroke-dashoffset: 89.1071120236919;
       }
     }
   
